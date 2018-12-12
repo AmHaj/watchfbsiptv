@@ -1,1224 +1,1253 @@
 #EXTM3U
-#EXTINF:-1,SKY SPORT MAIN EVENT
-http://p4.giffy.be:8080/live/coke123/coke123/21743.ts
-#EXTINF:-1,SKY SPORTS CRICKET
-http://p4.giffy.be:8080/live/coke123/coke123/21742.ts
-#EXTINF:-1,SKY SPORTS ACTION
-http://p4.giffy.be:8080/live/coke123/coke123/21741.ts
-#EXTINF:-1,SKY SPORTS GOLF
-http://p4.giffy.be:8080/live/coke123/coke123/21740.ts
-#EXTINF:-1,SKY SPORT SKY PREMIER LEAGUE
-http://p4.giffy.be:8080/live/coke123/coke123/21739.ts
-#EXTINF:-1,SKY SPORT F1 HD
-http://p4.giffy.be:8080/live/coke123/coke123/21738.ts
-#EXTINF:-1,SKY SPORT NEWS
-http://p4.giffy.be:8080/live/coke123/coke123/21732.ts
-#EXTINF:-1,SKY SPORTS MIX
-http://p4.giffy.be:8080/live/coke123/coke123/21728.ts
-#EXTINF:-1,SKY SPORTS NEWS HD
-http://p4.giffy.be:8080/live/coke123/coke123/21737.ts
-#EXTINF:-1,SKY SPORTS HD ARENA
-http://p4.giffy.be:8080/live/coke123/coke123/27769.ts
-#EXTINF:-1,SKY SPORT 1 HD
-http://p4.giffy.be:8080/live/coke123/coke123/30065.ts
-#EXTINF:-1,SKY SPORT 2 HD
-http://p4.giffy.be:8080/live/coke123/coke123/30066.ts
-#EXTINF:-1,SKY SPORT NEWS.
-http://p4.giffy.be:8080/live/coke123/coke123/30075.ts
-#EXTINF:-1,SKY FOOTBALL
-http://p4.giffy.be:8080/live/coke123/coke123/28297.ts
-#EXTINF:-1,BT SPORTS 1 HD
-http://p4.giffy.be:8080/live/coke123/coke123/21736.ts
-#EXTINF:-1,BT SPORTS 2 HD
-http://p4.giffy.be:8080/live/coke123/coke123/21735.ts
-#EXTINF:-1,BT SPORTS 3 HD
-http://p4.giffy.be:8080/live/coke123/coke123/21734.ts
-#EXTINF:-1,BT SPORT ESPN
-http://p4.giffy.be:8080/live/coke123/coke123/21731.ts
-#EXTINF:-1,BT SPORT MOSAIC
-http://p4.giffy.be:8080/live/coke123/coke123/21729.ts
-#EXTINF:-1,BT SPORT EXTRA
-http://p4.giffy.be:8080/live/coke123/coke123/21730.ts
-#EXTINF:-1,UK | 4 SEVEN
-http://p4.giffy.be:8080/live/coke123/coke123/30513.ts
-#EXTINF:-1,UK | 5 STAR
-http://p4.giffy.be:8080/live/coke123/coke123/30512.ts
-#EXTINF:-1,UK | 5 USA
-http://p4.giffy.be:8080/live/coke123/coke123/30514.ts
-#EXTINF:-1,UK | ANIMAL PLANET
-http://p4.giffy.be:8080/live/coke123/coke123/30530.ts
-#EXTINF:-1,UK | BBC ALBA
-http://p4.giffy.be:8080/live/coke123/coke123/30543.ts
-#EXTINF:-1,UK | BBC ONE SCOTLAND
-http://p4.giffy.be:8080/live/coke123/coke123/30547.ts
-#EXTINF:-1,UK | BBC ONE WALES
-http://p4.giffy.be:8080/live/coke123/coke123/30548.ts
-#EXTINF:-1,UK | BBC PARLIEMNT
-http://p4.giffy.be:8080/live/coke123/coke123/30542.ts
-#EXTINF:-1,UK | BBC TWO NORTHERN IRELAND
-http://p4.giffy.be:8080/live/coke123/coke123/30544.ts
-#EXTINF:-1,UK | BBC TWO SCOTLAND
-http://p4.giffy.be:8080/live/coke123/coke123/30545.ts
-#EXTINF:-1,UK | BBC TWO WALES
-http://p4.giffy.be:8080/live/coke123/coke123/30546.ts
-#EXTINF:-1,UK | BBC1
-http://p4.giffy.be:8080/live/coke123/coke123/30549.ts
-#EXTINF:-1,UK | BBC2
-http://p4.giffy.be:8080/live/coke123/coke123/30550.ts
-#EXTINF:-1,UK | BBC3
-http://p4.giffy.be:8080/live/coke123/coke123/30551.ts
-#EXTINF:-1,UK | BBC4
-http://p4.giffy.be:8080/live/coke123/coke123/30552.ts
-#EXTINF:-1,UK | CBS ACTION
-http://p4.giffy.be:8080/live/coke123/coke123/30526.ts
-#EXTINF:-1,UK | CBS DRAMA
-http://p4.giffy.be:8080/live/coke123/coke123/30525.ts
-#EXTINF:-1,UK | CBS REALITY
-http://p4.giffy.be:8080/live/coke123/coke123/30524.ts
-#EXTINF:-1,UK | CHANNEL 14
-http://p4.giffy.be:8080/live/coke123/coke123/30554.ts
-#EXTINF:-1,UK | CRIME INVESTIGATION
-http://p4.giffy.be:8080/live/coke123/coke123/30504.ts
-#EXTINF:-1,UK | DAVE
-http://p4.giffy.be:8080/live/coke123/coke123/30511.ts
-#EXTINF:-1,UK | DAVE HD
-http://p4.giffy.be:8080/live/coke123/coke123/30560.ts
-#EXTINF:-1,UK | DISCOVERY CH
-http://p4.giffy.be:8080/live/coke123/coke123/30539.ts
-#EXTINF:-1,UK | DISCOVERY HISTORY
-http://p4.giffy.be:8080/live/coke123/coke123/30538.ts
-#EXTINF:-1,UK | DISCOVERY HOME & HEALTH
-http://p4.giffy.be:8080/live/coke123/coke123/30537.ts
-#EXTINF:-1,UK | DISCOVERY SCIENCE
-http://p4.giffy.be:8080/live/coke123/coke123/30536.ts
-#EXTINF:-1,UK | DISCOVERY SHED
-http://p4.giffy.be:8080/live/coke123/coke123/30535.ts
-#EXTINF:-1,UK | DISCOVERY TURBO
-http://p4.giffy.be:8080/live/coke123/coke123/30534.ts
-#EXTINF:-1,UK | E4
-http://p4.giffy.be:8080/live/coke123/coke123/30522.ts
-#EXTINF:-1,UK | FOOD NETWORK
-http://p4.giffy.be:8080/live/coke123/coke123/30521.ts
-#EXTINF:-1,UK | FOX VOD
-http://p4.giffy.be:8080/live/coke123/coke123/30520.ts
-#EXTINF:-1,UK | HISTORY
-http://p4.giffy.be:8080/live/coke123/coke123/30528.ts
-#EXTINF:-1,UK | HISTORY 1
-http://p4.giffy.be:8080/live/coke123/coke123/30523.ts
-#EXTINF:-1,UK | HOME
-http://p4.giffy.be:8080/live/coke123/coke123/30527.ts
-#EXTINF:-1,UK | INVESTIGATION DISCOVERY
-http://p4.giffy.be:8080/live/coke123/coke123/30533.ts
-#EXTINF:-1,UK | ITV BE
-http://p4.giffy.be:8080/live/coke123/coke123/30519.ts
-#EXTINF:-1,UK | ITV ENCORE
-http://p4.giffy.be:8080/live/coke123/coke123/30555.ts
-#EXTINF:-1,UK | ITV LONDON
-http://p4.giffy.be:8080/live/coke123/coke123/30518.ts
-#EXTINF:-1,UK | ITV1
-http://p4.giffy.be:8080/live/coke123/coke123/30556.ts
-#EXTINF:-1,UK | ITV2
-http://p4.giffy.be:8080/live/coke123/coke123/30557.ts
-#EXTINF:-1,UK | ITV3
-http://p4.giffy.be:8080/live/coke123/coke123/30558.ts
-#EXTINF:-1,UK | ITV4
-http://p4.giffy.be:8080/live/coke123/coke123/30559.ts
-#EXTINF:-1,UK | KIX ENG
-http://p4.giffy.be:8080/live/coke123/coke123/30505.ts
-#EXTINF:-1,UK | LIFETIME
-http://p4.giffy.be:8080/live/coke123/coke123/30506.ts
-#EXTINF:-1,UK | MTV DANCE
-http://p4.giffy.be:8080/live/coke123/coke123/30563.ts
-#EXTINF:-1,UK | MTV HITS
-http://p4.giffy.be:8080/live/coke123/coke123/30562.ts
-#EXTINF:-1,UK | MTV MUSIC
-http://p4.giffy.be:8080/live/coke123/coke123/30561.ts
-#EXTINF:-1,UK | NAT GEO
-http://p4.giffy.be:8080/live/coke123/coke123/30531.ts
-#EXTINF:-1,UK | NAT GEO WILD
-http://p4.giffy.be:8080/live/coke123/coke123/30532.ts
-#EXTINF:-1,UK | NATGEO
-http://p4.giffy.be:8080/live/coke123/coke123/30540.ts
-#EXTINF:-1,UK | PICK
-http://p4.giffy.be:8080/live/coke123/coke123/30517.ts
-#EXTINF:-1,UK | QUEST
-http://p4.giffy.be:8080/live/coke123/coke123/30507.ts
-#EXTINF:-1,UK | RTE
-http://p4.giffy.be:8080/live/coke123/coke123/30516.ts
-#EXTINF:-1,UK | S4C
-http://p4.giffy.be:8080/live/coke123/coke123/30541.ts
-#EXTINF:-1,UK | SKY ARTS 1
-http://p4.giffy.be:8080/live/coke123/coke123/30503.ts
-#EXTINF:-1,UK | SKY ATLANTIC
-http://p4.giffy.be:8080/live/coke123/coke123/30502.ts
-#EXTINF:-1,UK | SKY LIVING
-http://p4.giffy.be:8080/live/coke123/coke123/30489.ts
-#EXTINF:-1,UK | SKY MOVIES ACTION & ADVENTURE
-http://p4.giffy.be:8080/live/coke123/coke123/30501.ts
-#EXTINF:-1,UK | SKY MOVIES COMEDY
-http://p4.giffy.be:8080/live/coke123/coke123/30500.ts
-#EXTINF:-1,UK | SKY MOVIES CRIMES & THRILLER
-http://p4.giffy.be:8080/live/coke123/coke123/30499.ts
-#EXTINF:-1,UK | SKY MOVIES DISNEY
-http://p4.giffy.be:8080/live/coke123/coke123/30498.ts
-#EXTINF:-1,UK | SKY MOVIES DRAMA
-http://p4.giffy.be:8080/live/coke123/coke123/30497.ts
-#EXTINF:-1,UK | SKY MOVIES FAMILY
-http://p4.giffy.be:8080/live/coke123/coke123/30496.ts
-#EXTINF:-1,UK | SKY MOVIES MODERN GREATS
-http://p4.giffy.be:8080/live/coke123/coke123/30495.ts
-#EXTINF:-1,UK | SKY MOVIES PREMIERE
-http://p4.giffy.be:8080/live/coke123/coke123/30494.ts
-#EXTINF:-1,UK | SKY MOVIES SCI-FI
-http://p4.giffy.be:8080/live/coke123/coke123/30493.ts
-#EXTINF:-1,UK | SKY MOVIES SELECT HD
-http://p4.giffy.be:8080/live/coke123/coke123/30492.ts
-#EXTINF:-1,UK | SKY MOVIES SHOWCASE
-http://p4.giffy.be:8080/live/coke123/coke123/30491.ts
-#EXTINF:-1,UK | SKY MOVIES THRILLER
-http://p4.giffy.be:8080/live/coke123/coke123/30490.ts
-#EXTINF:-1,UK | TLC
-http://p4.giffy.be:8080/live/coke123/coke123/30510.ts
-#EXTINF:-1,UK | TRAVEL
-http://p4.giffy.be:8080/live/coke123/coke123/30529.ts
-#EXTINF:-1,UK | TRAVEL CH HD
-http://p4.giffy.be:8080/live/coke123/coke123/30553.ts
-#EXTINF:-1,UK | TV5
-http://p4.giffy.be:8080/live/coke123/coke123/30508.ts
-#EXTINF:-1,UK |  UNIVERSAL
-http://p4.giffy.be:8080/live/coke123/coke123/30564.ts
-#EXTINF:-1,UK | VIVA
-http://p4.giffy.be:8080/live/coke123/coke123/30509.ts
+#EXTINF:-1,Bein1 1M
+http://2111.space:25461/live/admin_205678/75eixnOP/1286.m3u8
+#EXTINF:-1,Bein2 1M
+http://2111.space:25461/live/admin_205678/75eixnOP/1285.m3u8
+#EXTINF:-1,Bein3 1M
+http://2111.space:25461/live/admin_205678/75eixnOP/1284.m3u8
+#EXTINF:-1,Bein4 1M
+http://2111.space:25461/live/admin_205678/75eixnOP/1283.m3u8
+#EXTINF:-1,Bein5 1M
+http://2111.space:25461/live/admin_205678/75eixnOP/1282.m3u8
+#EXTINF:-1,Bein6 1M
+http://2111.space:25461/live/admin_205678/75eixnOP/1281.m3u8
+#EXTINF:-1,Bein7 1M
+http://2111.space:25461/live/admin_205678/75eixnOP/1280.m3u8
+#EXTINF:-1,Bein8 1M
+http://2111.space:25461/live/admin_205678/75eixnOP/1279.m3u8
+#EXTINF:-1,Bein9 1M
+http://2111.space:25461/live/admin_205678/75eixnOP/1278.m3u8
+#EXTINF:-1,Bein10 1M
+http://2111.space:25461/live/admin_205678/75eixnOP/1277.m3u8
+#EXTINF:-1,Bein1 2M
+http://2111.space:25461/live/admin_205678/75eixnOP/1296.m3u8
+#EXTINF:-1,Bein2 2M
+http://2111.space:25461/live/admin_205678/75eixnOP/1295.m3u8
+#EXTINF:-1,Bein3 2M
+http://2111.space:25461/live/admin_205678/75eixnOP/1294.m3u8
+#EXTINF:-1,Bein4 2M
+http://2111.space:25461/live/admin_205678/75eixnOP/1293.m3u8
+#EXTINF:-1,Bein5 2M
+http://2111.space:25461/live/admin_205678/75eixnOP/1292.m3u8
+#EXTINF:-1,Bein6 2M
+http://2111.space:25461/live/admin_205678/75eixnOP/1291.m3u8
+#EXTINF:-1,Bein7 2M
+http://2111.space:25461/live/admin_205678/75eixnOP/1290.m3u8
+#EXTINF:-1,Bein8 2M
+http://2111.space:25461/live/admin_205678/75eixnOP/1289.m3u8
+#EXTINF:-1,Bein9 2M
+http://2111.space:25461/live/admin_205678/75eixnOP/1288.m3u8
+#EXTINF:-1,Bein10 2M
+http://2111.space:25461/live/admin_205678/75eixnOP/1287.m3u8
+#EXTINF:-1,BEIN_SPORT1
+http://2111.space:25461/live/admin_205678/75eixnOP/1336.m3u8
+#EXTINF:-1,BEIN_SPORT2
+http://2111.space:25461/live/admin_205678/75eixnOP/1335.m3u8
+#EXTINF:-1,BEIN_SPORT3
+http://2111.space:25461/live/admin_205678/75eixnOP/1334.m3u8
+#EXTINF:-1,BEIN_SPORT4
+http://2111.space:25461/live/admin_205678/75eixnOP/1333.m3u8
+#EXTINF:-1,BEIN_SPORT5
+http://2111.space:25461/live/admin_205678/75eixnOP/1332.m3u8
+#EXTINF:-1,BEIN_SPORT6
+http://2111.space:25461/live/admin_205678/75eixnOP/1331.m3u8
+#EXTINF:-1,BEIN_SPORT7
+http://2111.space:25461/live/admin_205678/75eixnOP/1330.m3u8
+#EXTINF:-1,BEIN_SPORT8
+http://2111.space:25461/live/admin_205678/75eixnOP/1329.m3u8
+#EXTINF:-1,BEIN_SPORT9
+http://2111.space:25461/live/admin_205678/75eixnOP/1328.m3u8
+#EXTINF:-1,BEIN_SPORT10
+http://2111.space:25461/live/admin_205678/75eixnOP/1327.m3u8
+#EXTINF:-1,BEIN_SPORT 1
+http://2111.space:25461/live/admin_205678/75eixnOP/1356.m3u8
+#EXTINF:-1,BEIN_SPORT 2
+http://2111.space:25461/live/admin_205678/75eixnOP/1355.m3u8
+#EXTINF:-1,BEIN_SPORT 3
+http://2111.space:25461/live/admin_205678/75eixnOP/1354.m3u8
+#EXTINF:-1,BEIN_SPORT 4
+http://2111.space:25461/live/admin_205678/75eixnOP/1353.m3u8
+#EXTINF:-1,BEIN_SPORT 5
+http://2111.space:25461/live/admin_205678/75eixnOP/1352.m3u8
+#EXTINF:-1,BEIN_SPORT 6
+http://2111.space:25461/live/admin_205678/75eixnOP/1351.m3u8
+#EXTINF:-1,BEIN_SPORT 7
+http://2111.space:25461/live/admin_205678/75eixnOP/1350.m3u8
+#EXTINF:-1,BEIN_SPORT 8
+http://2111.space:25461/live/admin_205678/75eixnOP/1349.m3u8
+#EXTINF:-1,BEIN_SPORT 9
+http://2111.space:25461/live/admin_205678/75eixnOP/1348.m3u8
+#EXTINF:-1,BEIN_SPORT 10
+http://2111.space:25461/live/admin_205678/75eixnOP/1347.m3u8
+#EXTINF:-1,Bein__Sport1
+http://2111.space:25461/live/admin_205678/75eixnOP/1326.m3u8
+#EXTINF:-1,BEIN__SPORT2
+http://2111.space:25461/live/admin_205678/75eixnOP/1325.m3u8
+#EXTINF:-1,BEIN__SPORT3
+http://2111.space:25461/live/admin_205678/75eixnOP/1324.m3u8
+#EXTINF:-1,BEIN__SPORT4
+http://2111.space:25461/live/admin_205678/75eixnOP/1323.m3u8
+#EXTINF:-1,BEIN__SPORT5
+http://2111.space:25461/live/admin_205678/75eixnOP/1322.m3u8
+#EXTINF:-1,BEIN__SPORT6
+http://2111.space:25461/live/admin_205678/75eixnOP/1321.m3u8
+#EXTINF:-1,BEIN__SPORT7
+http://2111.space:25461/live/admin_205678/75eixnOP/1320.m3u8
+#EXTINF:-1,BEIN__SPORT8
+http://2111.space:25461/live/admin_205678/75eixnOP/1319.m3u8
+#EXTINF:-1,BEIN__SPORT9
+http://2111.space:25461/live/admin_205678/75eixnOP/1318.m3u8
+#EXTINF:-1,BEIN__SPORT10
+http://2111.space:25461/live/admin_205678/75eixnOP/1317.m3u8
+#EXTINF:-1,BEIN_SPORT__1
+http://2111.space:25461/live/admin_205678/75eixnOP/1346.m3u8
+#EXTINF:-1,BEIN_SPORT__2
+http://2111.space:25461/live/admin_205678/75eixnOP/1345.m3u8
+#EXTINF:-1,BEIN_SPORT__3
+http://2111.space:25461/live/admin_205678/75eixnOP/1344.m3u8
+#EXTINF:-1,BEIN_SPORTS__4
+http://2111.space:25461/live/admin_205678/75eixnOP/1343.m3u8
+#EXTINF:-1,BEIN_SPORT__5
+http://2111.space:25461/live/admin_205678/75eixnOP/1342.m3u8
+#EXTINF:-1,BEIN_SPORT__6
+http://2111.space:25461/live/admin_205678/75eixnOP/1341.m3u8
+#EXTINF:-1,BEIN_SPORT__7
+http://2111.space:25461/live/admin_205678/75eixnOP/1340.m3u8
+#EXTINF:-1,BEIN_SPORT__8
+http://2111.space:25461/live/admin_205678/75eixnOP/1339.m3u8
+#EXTINF:-1,BEIN_SPORT__9
+http://2111.space:25461/live/admin_205678/75eixnOP/1338.m3u8
+#EXTINF:-1,BEIN_SPORT__10
+http://2111.space:25461/live/admin_205678/75eixnOP/1337.m3u8
+#EXTINF:-1,BeinSport1 FULL HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1316.m3u8
+#EXTINF:-1,BeinSport2 FULL HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1315.m3u8
+#EXTINF:-1,BeinSport3 FULL HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1314.m3u8
+#EXTINF:-1,BeinSport4 FULL HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1313.m3u8
+#EXTINF:-1,BeinSport5 FULL HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1312.m3u8
+#EXTINF:-1,BeinSport6 FULL HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1311.m3u8
+#EXTINF:-1,BeinSport7 FULL HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1310.m3u8
+#EXTINF:-1,BeinSport8 FULL HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1309.m3u8
+#EXTINF:-1,BeinSport9 FULL HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1308.m3u8
+#EXTINF:-1,BeinSport10 FULL HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1307.m3u8
+#EXTINF:-1,BeinSport1 4KB PLUSE
+http://2111.space:25461/live/admin_205678/75eixnOP/1306.m3u8
+#EXTINF:-1,BeinSport2 4KB PLUSE
+http://2111.space:25461/live/admin_205678/75eixnOP/1305.m3u8
+#EXTINF:-1,BeinSport3 4KB PLUSE
+http://2111.space:25461/live/admin_205678/75eixnOP/1304.m3u8
+#EXTINF:-1,BeinSport4 4KB PLUSE
+http://2111.space:25461/live/admin_205678/75eixnOP/1303.m3u8
+#EXTINF:-1,BeinSport5 4KB PLUSE
+http://2111.space:25461/live/admin_205678/75eixnOP/1302.m3u8
+#EXTINF:-1,BeinSport6 4KB PLUSE
+http://2111.space:25461/live/admin_205678/75eixnOP/1301.m3u8
+#EXTINF:-1,BeinSport7 4KB PLUSE
+http://2111.space:25461/live/admin_205678/75eixnOP/1300.m3u8
+#EXTINF:-1,BeinSport8 4KB PLUSE
+http://2111.space:25461/live/admin_205678/75eixnOP/1299.m3u8
+#EXTINF:-1,BeinSport9 4KB PLUSE
+http://2111.space:25461/live/admin_205678/75eixnOP/1298.m3u8
+#EXTINF:-1,BeinSport10 4KB PLUSE
+http://2111.space:25461/live/admin_205678/75eixnOP/1297.m3u8
+#EXTINF:-1,Bein Sports1 EX
+http://2111.space:25461/live/admin_205678/75eixnOP/1276.m3u8
+#EXTINF:-1,Bein Sports2 EX
+http://2111.space:25461/live/admin_205678/75eixnOP/1275.m3u8
+#EXTINF:-1,Bein Sports3 EX
+http://2111.space:25461/live/admin_205678/75eixnOP/1274.m3u8
+#EXTINF:-1,Bein Sports4 EX
+http://2111.space:25461/live/admin_205678/75eixnOP/1273.m3u8
+#EXTINF:-1,Bein Sports5 EX
+http://2111.space:25461/live/admin_205678/75eixnOP/1272.m3u8
+#EXTINF:-1,Bein Sports6 EX
+http://2111.space:25461/live/admin_205678/75eixnOP/1271.m3u8
+#EXTINF:-1,Bein Sports7 EX
+http://2111.space:25461/live/admin_205678/75eixnOP/1270.m3u8
+#EXTINF:-1,Bein Sports8 EX
+http://2111.space:25461/live/admin_205678/75eixnOP/1269.m3u8
+#EXTINF:-1,Bein Sports9 EX
+http://2111.space:25461/live/admin_205678/75eixnOP/1268.m3u8
+#EXTINF:-1,Bein Sports10 EX
+http://2111.space:25461/live/admin_205678/75eixnOP/1267.m3u8
+#EXTINF:-1,Bein_1 LOW
+http://2111.space:25461/live/admin_205678/75eixnOP/943.m3u8
+#EXTINF:-1,Bein_2 LOW
+http://2111.space:25461/live/admin_205678/75eixnOP/942.m3u8
+#EXTINF:-1,Bein_3 LOW
+http://2111.space:25461/live/admin_205678/75eixnOP/941.m3u8
+#EXTINF:-1,Bein_4 LOW
+http://2111.space:25461/live/admin_205678/75eixnOP/940.m3u8
+#EXTINF:-1,Bein_5 LOW
+http://2111.space:25461/live/admin_205678/75eixnOP/939.m3u8
+#EXTINF:-1,Bein_6 LOW
+http://2111.space:25461/live/admin_205678/75eixnOP/938.m3u8
+#EXTINF:-1,Bein_7 LOW
+http://2111.space:25461/live/admin_205678/75eixnOP/937.m3u8
+#EXTINF:-1,Bein_8 LOW
+http://2111.space:25461/live/admin_205678/75eixnOP/936.m3u8
+#EXTINF:-1,Bein_9 LOW
+http://2111.space:25461/live/admin_205678/75eixnOP/935.m3u8
+#EXTINF:-1,Bein_10 LOW
+http://2111.space:25461/live/admin_205678/75eixnOP/934.m3u8
+#EXTINF:-1,OSN-WWE
+http://2111.space:25461/live/admin_205678/75eixnOP/999.m3u8
+#EXTINF:-1,Bein_2_720P
+http://2111.space:25461/live/admin_205678/75eixnOP/1814.m3u8
+#EXTINF:-1,Bein_4_720P
+http://2111.space:25461/live/admin_205678/75eixnOP/1816.m3u8
+#EXTINF:-1,BEIN1_720P
+http://2111.space:25461/live/admin_205678/75eixnOP/1813.m3u8
+#EXTINF:-1,Bein10_720P
+http://2111.space:25461/live/admin_205678/75eixnOP/1822.m3u8
+#EXTINF:-1,BEIN3_720P
+http://2111.space:25461/live/admin_205678/75eixnOP/1815.m3u8
+#EXTINF:-1,Bein5_720P
+http://2111.space:25461/live/admin_205678/75eixnOP/1817.m3u8
+#EXTINF:-1,Bein6_720P
+http://2111.space:25461/live/admin_205678/75eixnOP/1818.m3u8
+#EXTINF:-1,Bein7_720P
+http://2111.space:25461/live/admin_205678/75eixnOP/1819.m3u8
+#EXTINF:-1,Bein8_720P
+http://2111.space:25461/live/admin_205678/75eixnOP/1820.m3u8
+#EXTINF:-1,Bein9_720P
+http://2111.space:25461/live/admin_205678/75eixnOP/1821.m3u8
+#EXTINF:-1,BEIN_SPORT_1
+http://2111.space:25461/live/admin_205678/75eixnOP/1825.m3u8
+#EXTINF:-1,BEIN_SPORT_2
+http://2111.space:25461/live/admin_205678/75eixnOP/1826.m3u8
+#EXTINF:-1,BEIN_SPORT_3
+http://2111.space:25461/live/admin_205678/75eixnOP/1827.m3u8
+#EXTINF:-1,BEIN_SPORT_4
+http://2111.space:25461/live/admin_205678/75eixnOP/1828.m3u8
+#EXTINF:-1,BEIN_SPORT_5
+http://2111.space:25461/live/admin_205678/75eixnOP/1829.m3u8
+#EXTINF:-1,BEIN_SPORT_6
+http://2111.space:25461/live/admin_205678/75eixnOP/1831.m3u8
+#EXTINF:-1,BEIN_SPORT_7
+http://2111.space:25461/live/admin_205678/75eixnOP/1830.m3u8
+#EXTINF:-1,BEIN_SPORT_8
+http://2111.space:25461/live/admin_205678/75eixnOP/1832.m3u8
+#EXTINF:-1,BEIN_SPORT_9
+http://2111.space:25461/live/admin_205678/75eixnOP/1833.m3u8
+#EXTINF:-1,BEIN_SPORT_10
+http://2111.space:25461/live/admin_205678/75eixnOP/1834.m3u8
+#EXTINF:-1,Moroco 3 Arriadia
+http://2111.space:25461/live/admin_205678/75eixnOP/4770.m3u8
+#EXTINF:-1,Eng:BT_SPORT_1
+http://2111.space:25461/live/admin_205678/75eixnOP/4891.m3u8
+#EXTINF:-1,Eng:BT_SPORT_2
+http://2111.space:25461/live/admin_205678/75eixnOP/4890.m3u8
+#EXTINF:-1,Eng:BT_SPORT_3
+http://2111.space:25461/live/admin_205678/75eixnOP/4889.m3u8
+#EXTINF:-1,Eng:Premier_Sport
+http://2111.space:25461/live/admin_205678/75eixnOP/4874.m3u8
+#EXTINF:-1,Eng:Sky Sport MIX
+http://2111.space:25461/live/admin_205678/75eixnOP/4873.m3u8
+#EXTINF:-1,Eng:Sky Sports
+http://2111.space:25461/live/admin_205678/75eixnOP/4872.m3u8
+#EXTINF:-1,Eng:Sky Sports F1
+http://2111.space:25461/live/admin_205678/75eixnOP/4871.m3u8
+#EXTINF:-1,Eng:Sky Sports Premier league
+http://2111.space:25461/live/admin_205678/75eixnOP/4870.m3u8
+#EXTINF:-1,Eng:Sky_Sport Golf
+http://2111.space:25461/live/admin_205678/75eixnOP/4860.m3u8
+#EXTINF:-1,Eng:Sky_Sport_Racing
+http://2111.space:25461/live/admin_205678/75eixnOP/4859.m3u8
+#EXTINF:-1,Eng:Sky_Sports 2
+http://2111.space:25461/live/admin_205678/75eixnOP/4858.m3u8
+#EXTINF:-1,Eng:Sky_Sports BT
+http://2111.space:25461/live/admin_205678/75eixnOP/4857.m3u8
+#EXTINF:-1,Eng:Sky_Sports F1
+http://2111.space:25461/live/admin_205678/75eixnOP/4856.m3u8
+#EXTINF:-1,Eng:Sky_Sports_1
+http://2111.space:25461/live/admin_205678/75eixnOP/4855.m3u8
+#EXTINF:-1,Eng:Sky_Sports_3
+http://2111.space:25461/live/admin_205678/75eixnOP/4854.m3u8
+#EXTINF:-1,Eng:Sky_Sports_4
+http://2111.space:25461/live/admin_205678/75eixnOP/4853.m3u8
+#EXTINF:-1,Eng:Sky_Sports_5
+http://2111.space:25461/live/admin_205678/75eixnOP/4852.m3u8
+#EXTINF:-1,IT:Sky.Sport F1
+http://2111.space:25461/live/admin_205678/75eixnOP/4897.m3u8
+#EXTINF:-1,IT:Sky.Sport.1
+http://2111.space:25461/live/admin_205678/75eixnOP/4896.m3u8
+#EXTINF:-1,IT:Sky.Sport.2
+http://2111.space:25461/live/admin_205678/75eixnOP/4895.m3u8
+#EXTINF:-1,IT:Sky.Sport.24
+http://2111.space:25461/live/admin_205678/75eixnOP/4894.m3u8
+#EXTINF:-1,IT:Sky.Sport.3
+http://2111.space:25461/live/admin_205678/75eixnOP/4893.m3u8
 
-#EXTINF:-1,UK: Racing UK
-http://87.120.36.166:80/live/test2017/test2017/8933.ts
-#EXTINF:-1,UK: RTE ONE
-http://87.120.36.166:80/live/test2017/test2017/8934.ts
-#EXTINF:-1,UK: RTE TWO
-http://87.120.36.166:80/live/test2017/test2017/8935.ts
-#EXTINF:-1,UK: 5 Star
-http://87.120.36.166:80/live/test2017/test2017/3718.ts
-#EXTINF:-1,UK: 5 USA
-http://87.120.36.166:80/live/test2017/test2017/3719.ts
-#EXTINF:-1,UK: Alibi
-http://87.120.36.166:80/live/test2017/test2017/3746.ts
-#EXTINF:-1,UK: Animal Planet
-http://87.120.36.166:80/live/test2017/test2017/1800.ts
-#EXTINF:-1,UK: Baby TV
-http://87.120.36.166:80/live/test2017/test2017/3735.ts
-#EXTINF:-1,UK: BBC News
-http://87.120.36.166:80/live/test2017/test2017/3715.ts
-#EXTINF:-1,UK: BBC Parliament
-http://87.120.36.166:80/live/test2017/test2017/3716.ts
-#EXTINF:-1,UK: BT Sport 3
-http://87.120.36.166:80/live/test2017/test2017/3734.ts
-#EXTINF:-1,UK: BT Sports 1
-http://87.120.36.166:80/live/test2017/test2017/1795.ts
-#EXTINF:-1,UK: BT Sports 2
-http://87.120.36.166:80/live/test2017/test2017/1796.ts
-#EXTINF:-1,UK: Cartoon Network
-http://87.120.36.166:80/live/test2017/test2017/3737.ts
-#EXTINF:-1,UK: CBC Reality
-http://87.120.36.166:80/live/test2017/test2017/3747.ts
-#EXTINF:-1,UK: CCTV 9 Documentary
-http://87.120.36.166:80/live/test2017/test2017/3730.ts
-#EXTINF:-1,UK: CCTV News
-http://87.120.36.166:80/live/test2017/test2017/3723.ts
-#EXTINF:-1,UK: Channel 4
-http://87.120.36.166:80/live/test2017/test2017/3720.ts
-#EXTINF:-1,UK: Channel 5
-http://87.120.36.166:80/live/test2017/test2017/3721.ts
-#EXTINF:-1,UK: Channel Aka
-http://87.120.36.166:80/live/test2017/test2017/3749.ts
-#EXTINF:-1,UK: Discovery
-http://87.120.36.166:80/live/test2017/test2017/2376.ts
-#EXTINF:-1,UK: Discovery Science
-http://87.120.36.166:80/live/test2017/test2017/3729.ts
-#EXTINF:-1,UK: Disney Channel
-http://87.120.36.166:80/live/test2017/test2017/2835.ts
-#EXTINF:-1,UK: Disney Junior
-http://87.120.36.166:80/live/test2017/test2017/2834.ts
-#EXTINF:-1,UK: Disney XD
-http://87.120.36.166:80/live/test2017/test2017/2826.ts
-#EXTINF:-1,UK: E Entertainment
-http://87.120.36.166:80/live/test2017/test2017/3726.ts
-#EXTINF:-1,UK: ESPN
-http://87.120.36.166:80/live/test2017/test2017/2782.ts
-#EXTINF:-1,UK: Film 4
-http://87.120.36.166:80/live/test2017/test2017/3727.ts
-#EXTINF:-1,UK: Food Network
-http://87.120.36.166:80/live/test2017/test2017/3739.ts
-#EXTINF:-1,UK: History
-http://87.120.36.166:80/live/test2017/test2017/2375.ts
-#EXTINF:-1,UK: Investigation Discovery
-http://87.120.36.166:80/live/test2017/test2017/3712.ts
-#EXTINF:-1,UK: ITV
-http://87.120.36.166:80/live/test2017/test2017/2620.ts
-#EXTINF:-1,UK: ITV 3
-http://87.120.36.166:80/live/test2017/test2017/2622.ts
-#EXTINF:-1,UK: ITV 4
-http://87.120.36.166:80/live/test2017/test2017/2623.ts
-#EXTINF:-1,UK: ITV Be
-http://87.120.36.166:80/live/test2017/test2017/3713.ts
-#EXTINF:-1,UK: Love World
-http://87.120.36.166:80/live/test2017/test2017/3750.ts
-#EXTINF:-1,UK: MTV
-http://87.120.36.166:80/live/test2017/test2017/3740.ts
-#EXTINF:-1,UK: MTV Hits
-http://87.120.36.166:80/live/test2017/test2017/3741.ts
-#EXTINF:-1,UK: National Geographic
-http://87.120.36.166:80/live/test2017/test2017/2010.ts
-#EXTINF:-1,UK: National Geographic wild
-http://87.120.36.166:80/live/test2017/test2017/2373.ts
-#EXTINF:-1,UK: Nickelodeon
-http://87.120.36.166:80/live/test2017/test2017/3736.ts
-#EXTINF:-1,UK: Press TV
-http://87.120.36.166:80/live/test2017/test2017/3722.ts
-#EXTINF:-1,UK: Setanta Sports 1
-http://87.120.36.166:80/live/test2017/test2017/3733.ts
-#EXTINF:-1,UK: Sky Movies Action
-http://87.120.36.166:80/live/test2017/test2017/2831.ts
-#EXTINF:-1,UK: Sky Movies Crime
-http://87.120.36.166:80/live/test2017/test2017/2374.ts
-#EXTINF:-1,UK: SKY Movies Disney
-http://87.120.36.166:80/live/test2017/test2017/2832.ts
-#EXTINF:-1,UK: Sky Movies Family
-http://87.120.36.166:80/live/test2017/test2017/1799.ts
-#EXTINF:-1,UK: Sky Movies Premiere
-http://87.120.36.166:80/live/test2017/test2017/1798.ts
-#EXTINF:-1,UK: Sky Movies Sci-Fi
-http://87.120.36.166:80/live/test2017/test2017/2830.ts
-#EXTINF:-1,UK: Sky Sport F1
-http://87.120.36.166:80/live/test2017/test2017/2502.ts
-#EXTINF:-1,UK: Sky Sport News
-http://87.120.36.166:80/live/test2017/test2017/3711.ts
-#EXTINF:-1,UK: Sky Sports 1
-http://87.120.36.166:80/live/test2017/test2017/2006.ts
-#EXTINF:-1,UK: SKY SPORT MAIN EVENT HD
-http://87.120.36.166:80/live/test2017/test2017/3193.ts
-#EXTINF:-1,UK: Sky Sports 2
-http://87.120.36.166:80/live/test2017/test2017/8314.ts
-#EXTINF:-1,UK: SKY SPORT CRICKET HD
-http://87.120.36.166:80/live/test2017/test2017/3194.ts
-#EXTINF:-1,UK: Sky Sports 3
-http://87.120.36.166:80/live/test2017/test2017/8313.ts
-#EXTINF:-1,UK:  SKY SPORT ACTION HD
-http://87.120.36.166:80/live/test2017/test2017/3195.ts
-#EXTINF:-1,UK: Sky Sports 4
-http://87.120.36.166:80/live/test2017/test2017/2012.ts
-#EXTINF:-1,UK: SKY SPORT GOLF HD
-http://87.120.36.166:80/live/test2017/test2017/3196.ts
-#EXTINF:-1,UK: Sky Sports 5
-http://87.120.36.166:80/live/test2017/test2017/2451.ts
-#EXTINF:-1,UK: SKY SPORT MIX HD
-http://87.120.36.166:80/live/test2017/test2017/3197.ts
-#EXTINF:-1,UK: STV
-http://87.120.36.166:80/live/test2017/test2017/3714.ts
-#EXTINF:-1,UK: TLC
-http://87.120.36.166:80/live/test2017/test2017/3725.ts
-#EXTINF:-1,UK: True Movies 1
-http://87.120.36.166:80/live/test2017/test2017/2827.ts
-#EXTINF:-1,UK: True Movies 2
-http://87.120.36.166:80/live/test2017/test2017/2828.ts
-#EXTINF:-1,UK: VH1
-http://87.120.36.166:80/live/test2017/test2017/3742.ts
-#EXTINF:-1,UK: Viva
-http://87.120.36.166:80/live/test2017/test2017/3743.ts
-#EXTINF:-1,UK: Yesterday
-http://87.120.36.166:80/live/test2017/test2017/3745.ts
-#EXTINF:-1,UK: Eurosport 1
-http://87.120.36.166:80/live/test2017/test2017/8692.ts
-#EXTINF:-1,UK: Gold
-http://87.120.36.166:80/live/test2017/test2017/3744.ts
-#EXTINF:-1,UK: SKY BOX OFFICE
-http://87.120.36.166:80/live/test2017/test2017/8693.ts
-#EXTINF:-1,UK: SKY BOX OFFICE1
-http://87.120.36.166:80/live/test2017/test2017/8694.ts
-#EXTINF:-1,UK: SKY BOX OFFICE2
-http://87.120.36.166:80/live/test2017/test2017/8695.ts
-#EXTINF:-1,UK: SKY BOX OFFICE3
-http://87.120.36.166:80/live/test2017/test2017/8696.ts
-#EXTINF:-1,UK: SKY BOX OFFICE4
-http://87.120.36.166:80/live/test2017/test2017/8697.ts
-#EXTINF:-1,UK: SKY SPORT FOOTBALL
-http://87.120.36.166:80/live/test2017/test2017/8698.ts
-#EXTINF:-1,UK: SKY SPORT GOLF
-http://87.120.36.166:80/live/test2017/test2017/8699.ts
+#EXTINF:-1,Fox Sports 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/146.ts
+#EXTINF:-1,Fox Sports 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/145.ts
+#EXTINF:-1,Fox Sports HD
+http://maxptv.ddns.net:25461/live/MA020/0706/144.ts
+#EXTINF:-1,Fox Sports SD
+http://maxptv.ddns.net:25461/live/MA020/0706/143.ts
+#EXTINF:-1,SporTV HD
+http://maxptv.ddns.net:25461/live/MA020/0706/48.ts
+#EXTINF:-1,SporTV SD
+http://maxptv.ddns.net:25461/live/MA020/0706/47.ts
+#EXTINF:-1,SporTV2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/46.ts
+#EXTINF:-1,SporTV2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/45.ts
+#EXTINF:-1,SporTV3 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/44.ts
+#EXTINF:-1,SporTV3 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/43.ts
 
-#EXTINF:-1,UK:Sports_Football
-http://178.33.239.88:9000/live/2018/2018/8067.ts
-#EXTINF:-1,UK:Sky Premier Sport
-http://178.33.239.88:9000/live/2018/2018/12943.ts
-#EXTINF:-1,UK:Sky Sport Premier League
-http://178.33.239.88:9000/live/2018/2018/12947.ts
-#EXTINF:-1,UK:Sky Sport Premier League (b)
-http://178.33.239.88:9000/live/2018/2018/12946.ts
-#EXTINF:-1,UK:Sky Sports Premier league
-http://178.33.239.88:9000/live/2018/2018/12948.ts
-#EXTINF:-1,UK:SKY_PREMIER
-http://178.33.239.88:9000/live/2018/2018/12945.ts
-#EXTINF:-1,UK:BT_SPORT_1
-http://178.33.239.88:9000/live/2018/2018/10521.ts
-#EXTINF:-1,UK:BT_SPORT_2
-http://178.33.239.88:9000/live/2018/2018/10522.ts
-#EXTINF:-1,UK:BT_SPORT_3
-http://178.33.239.88:9000/live/2018/2018/9260.ts
-#EXTINF:-1,UK:BT_Sports_ESPN
-http://178.33.239.88:9000/live/2018/2018/8069.ts
-#EXTINF:-1,UK:Sky_Sport
-http://178.33.239.88:9000/live/2018/2018/7860.ts
-#EXTINF:-1,UK:Sky_Sports_1
-http://178.33.239.88:9000/live/2018/2018/8092.ts
-#EXTINF:-1,UK:Sky_Sports 2
-http://178.33.239.88:9000/live/2018/2018/8091.ts
-#EXTINF:-1,UK:Sky_Sports_3
-http://178.33.239.88:9000/live/2018/2018/8090.ts
-#EXTINF:-1,UK:Sky_Sports_5
-http://178.33.239.88:9000/live/2018/2018/8088.ts
-#EXTINF:-1,UK:Sky_Sports_4
-http://178.33.239.88:9000/live/2018/2018/8089.ts
-#EXTINF:-1,UK:Sky Sport MIX
-http://178.33.239.88:9000/live/2018/2018/12938.ts
-#EXTINF:-1,UK:Sky_Sports BT
-http://178.33.239.88:9000/live/2018/2018/12941.ts
-#EXTINF:-1,UK:Sky Sports
-http://178.33.239.88:9000/live/2018/2018/12942.ts
-#EXTINF:-1,Uk: Sky Sports Box
-http://178.33.239.88:9000/live/2018/2018/12937.ts
-#EXTINF:-1,UK:Premier_Sport
-http://178.33.239.88:9000/live/2018/2018/10869.ts
-#EXTINF:-1,UK:Sky_Sports_News
-http://178.33.239.88:9000/live/2018/2018/10870.ts
-#EXTINF:-1,UK:Sky_Sport_Racing
-http://178.33.239.88:9000/live/2018/2018/7858.ts
-#EXTINF:-1,UK:Sky_Sports F1
-http://178.33.239.88:9000/live/2018/2018/8087.ts
-#EXTINF:-1,UK:Setanta_Sports_1
-http://178.33.239.88:9000/live/2018/2018/10524.ts
-#EXTINF:-1,UK:EuroSport_1
-http://178.33.239.88:9000/live/2018/2018/10525.ts
-#EXTINF:-1,UK:EuroSport_2
-http://178.33.239.88:9000/live/2018/2018/10526.ts
-#EXTINF:-1,UK:True_Movies
-http://178.33.239.88:9000/live/2018/2018/8055.ts
-#EXTINF:-1,UK:Sky-Cienma_Disney
-http://178.33.239.88:9000/live/2018/2018/9270.ts
-#EXTINF:-1,UK:Sky-Cinema_Comedy
-http://178.33.239.88:9000/live/2018/2018/9269.ts
-#EXTINF:-1,UK:Sky-Movies_Premiere
-http://178.33.239.88:9000/live/2018/2018/9262.ts
-#EXTINF:-1,UK:SKY_ACTION_HD
-http://178.33.239.88:9000/live/2018/2018/10889.ts
-#EXTINF:-1,UK:CBS_ACTION
-http://178.33.239.88:9000/live/2018/2018/10867.ts
-#EXTINF:-1,UK:CBS_DRAMA
-http://178.33.239.88:9000/live/2018/2018/10866.ts
-#EXTINF:-1,UK:CBS_REALITY
-http://178.33.239.88:9000/live/2018/2018/10865.ts
-#EXTINF:-1,UK:DRAMA
-http://178.33.239.88:9000/live/2018/2018/10864.ts
-#EXTINF:-1,UK:Film_4
-http://178.33.239.88:9000/live/2018/2018/10868.ts
-#EXTINF:-1,UK:Comedy_HD
-http://178.33.239.88:9000/live/2018/2018/10874.ts
-#EXTINF:-1,UK:HORROR_CHANNEL
-http://178.33.239.88:9000/live/2018/2018/10863.ts
-#EXTINF:-1,UK:MOVIES_4_MEN
-http://178.33.239.88:9000/live/2018/2018/10862.ts
-#EXTINF:-1,UK:SKY_CINEMA_DISNEY
-http://178.33.239.88:9000/live/2018/2018/10882.ts
-#EXTINF:-1,UK:SKY_CINEMA_DRAMA_ROMANCE
-http://178.33.239.88:9000/live/2018/2018/10881.ts
-#EXTINF:-1,UK:SKY_CINEMA_Action
-http://178.33.239.88:9000/live/2018/2018/10880.ts
-#EXTINF:-1,UK:SKY_CINEMA_PREMIERE_HD
-http://178.33.239.88:9000/live/2018/2018/10884.ts
-#EXTINF:-1,UK:SKY_CINEMA_SCI-FI_HORROR_HD
-http://178.33.239.88:9000/live/2018/2018/10885.ts
-#EXTINF:-1,UK:SKY_Comedy_HD
-http://178.33.239.88:9000/live/2018/2018/10887.ts
-#EXTINF:-1,UK:SKY_Crime_Thriller
-http://178.33.239.88:9000/live/2018/2018/10879.ts
-#EXTINF:-1,UK:SKY_Movies_Family_HD
-http://178.33.239.88:9000/live/2018/2018/10886.ts
-#EXTINF:-1,UK:SKY_Greats
-http://178.33.239.88:9000/live/2018/2018/10878.ts
-#EXTINF:-1,UK:SKY_MOVIES_PREMIERE_PLUS_HD
-http://178.33.239.88:9000/live/2018/2018/10883.ts
-#EXTINF:-1,UK:SKY_SHOW
-http://178.33.239.88:9000/live/2018/2018/10876.ts
-#EXTINF:-1,UK:SKY_SELECT_HD
-http://178.33.239.88:9000/live/2018/2018/10888.ts
-#EXTINF:-1,UK:SONY_MOVIES
-http://178.33.239.88:9000/live/2018/2018/10873.ts
-#EXTINF:-1,UK:Movies_Drama
-http://178.33.239.88:9000/live/2018/2018/10871.ts
-#EXTINF:-1,UK:CNBC
-http://178.33.239.88:9000/live/2018/2018/8071.ts
-#EXTINF:-1,UK:CNN_NEW
-http://178.33.239.88:9000/live/2018/2018/8052.ts
-#EXTINF:-1,UK:Disney
-http://178.33.239.88:9000/live/2018/2018/8075.ts
-#EXTINF:-1,UK:ITV 4
-http://178.33.239.88:9000/live/2018/2018/9255.ts
-#EXTINF:-1,UK:Nat_Wild-HD
-http://178.33.239.88:9000/live/2018/2018/8056.ts
-#EXTINF:-1,UK:Dmax
-http://178.33.239.88:9000/live/2018/2018/8073.ts
-#EXTINF:-1,UK:Nick_Toons
-http://178.33.239.88:9000/live/2018/2018/8074.ts
-#EXTINF:-1,UK:ITV_2_HD
-http://178.33.239.88:9000/live/2018/2018/10528.ts
-#EXTINF:-1,UK:ITV_3_HD
-http://178.33.239.88:9000/live/2018/2018/10529.ts
-#EXTINF:-1,UK:ITV_4_HD
-http://178.33.239.88:9000/live/2018/2018/10530.ts
-#EXTINF:-1,UK:ITV_HD
-http://178.33.239.88:9000/live/2018/2018/10531.ts
-
-#EXTINF:-1,UK: ESPN NEWS
-http://landiptv.live:8080/live/ricardo/ricardo/62222.ts
-#EXTINF:-1,UK: BOX OFFICE HD 1
-http://landiptv.live:8080/live/ricardo/ricardo/74550.ts
-#EXTINF:-1,UK: BoxOffice 2
-http://landiptv.live:8080/live/ricardo/ricardo/74551.ts
-#EXTINF:-1,UK: BoxOffice 4
-http://landiptv.live:8080/live/ricardo/ricardo/74552.ts
-#EXTINF:-1,UK: Liverpool FC
-http://landiptv.live:8080/live/ricardo/ricardo/64983.ts
-#EXTINF:-1,UK: ITV1 HD
-http://landiptv.live:8080/live/ricardo/ricardo/65172.ts
-#EXTINF:-1,UK: ITV2 HD
-http://landiptv.live:8080/live/ricardo/ricardo/65171.ts
-#EXTINF:-1,UK: ITV3 HD
-http://landiptv.live:8080/live/ricardo/ricardo/65170.ts
-#EXTINF:-1,UK: ITV4 HD
-http://landiptv.live:8080/live/ricardo/ricardo/65169.ts
-#EXTINF:-1,UK: AT THE RACES
-http://landiptv.live:8080/live/ricardo/ricardo/65018.ts
-#EXTINF:-1,UK: Racing UK HD
-http://landiptv.live:8080/live/ricardo/ricardo/65019.ts
-#EXTINF:-1,UK: Chelsea TV HD
-http://landiptv.live:8080/live/ricardo/ricardo/65020.ts
-#EXTINF:-1,UK: Dave HD
-http://landiptv.live:8080/live/ricardo/ricardo/65021.ts
-#EXTINF:-1,UK: Animal Planet HD
-http://landiptv.live:8080/live/ricardo/ricardo/65023.ts
-#EXTINF:-1,UK: TRUE MOVIES 1 HD
-http://landiptv.live:8080/live/ricardo/ricardo/84953.ts
-#EXTINF:-1,UK: True Movies 2 HD
-http://landiptv.live:8080/live/ricardo/ricardo/84954.ts
-#EXTINF:-1,UK: Discovery Science HD
-http://landiptv.live:8080/live/ricardo/ricardo/65024.ts
-#EXTINF:-1,UK: Discovery History HD
-http://landiptv.live:8080/live/ricardo/ricardo/65025.ts
-#EXTINF:-1,UK: Discovery HD
-http://landiptv.live:8080/live/ricardo/ricardo/65029.ts
-#EXTINF:-1,UK: Home & Health
-http://landiptv.live:8080/live/ricardo/ricardo/65031.ts
-#EXTINF:-1,UK: Discovery Turbo HD
-http://landiptv.live:8080/live/ricardo/ricardo/65033.ts
-#EXTINF:-1,UK: China History Channel
-http://landiptv.live:8080/live/ricardo/ricardo/65035.ts
-#EXTINF:-1,UK: ITV BE
-http://landiptv.live:8080/live/ricardo/ricardo/65036.ts
-#EXTINF:-1,UK: Really
-http://landiptv.live:8080/live/ricardo/ricardo/65037.ts
-#EXTINF:-1,UK: Pick
-http://landiptv.live:8080/live/ricardo/ricardo/65038.ts
-#EXTINF:-1,UK: Quest
-http://landiptv.live:8080/live/ricardo/ricardo/65039.ts
-#EXTINF:-1,UK: Good Food
-http://landiptv.live:8080/live/ricardo/ricardo/65040.ts
-#EXTINF:-1,UK: Sky News HD
-http://landiptv.live:8080/live/ricardo/ricardo/65042.ts
-#EXTINF:-1,UK: TLC HD
-http://landiptv.live:8080/live/ricardo/ricardo/65043.ts
-#EXTINF:-1,UK: Yesterday HD
-http://landiptv.live:8080/live/ricardo/ricardo/65044.ts
-#EXTINF:-1,UK: Travel
-http://landiptv.live:8080/live/ricardo/ricardo/65045.ts
-#EXTINF:-1,UK: 5 USA
-http://landiptv.live:8080/live/ricardo/ricardo/65046.ts
-#EXTINF:-1,UK: Trace Africa
-http://landiptv.live:8080/live/ricardo/ricardo/65047.ts
-#EXTINF:-1,UK: Starz TV
-http://landiptv.live:8080/live/ricardo/ricardo/65048.ts
-#EXTINF:-1,UK: Scuzz
-http://landiptv.live:8080/live/ricardo/ricardo/65049.ts
-#EXTINF:-1,UK: The Vault
-http://landiptv.live:8080/live/ricardo/ricardo/65052.ts
-#EXTINF:-1,UK: Chart show Hits
-http://landiptv.live:8080/live/ricardo/ricardo/65053.ts
-#EXTINF:-1,UK: Chart Show TV
-http://landiptv.live:8080/live/ricardo/ricardo/65054.ts
-#EXTINF:-1,UK: Box Upfront
-http://landiptv.live:8080/live/ricardo/ricardo/65055.ts
-#EXTINF:-1,UK: Box Hits
-http://landiptv.live:8080/live/ricardo/ricardo/65056.ts
-#EXTINF:-1,UK: The Box
-http://landiptv.live:8080/live/ricardo/ricardo/65057.ts
-#EXTINF:-1,UK: Channel AKA
-http://landiptv.live:8080/live/ricardo/ricardo/65059.ts
-#EXTINF:-1,UK: Heart TV
-http://landiptv.live:8080/live/ricardo/ricardo/65060.ts
-#EXTINF:-1,UK: CAPITAL TV
-http://landiptv.live:8080/live/ricardo/ricardo/65061.ts
-#EXTINF:-1,UK: MTV BASE
-http://landiptv.live:8080/live/ricardo/ricardo/65090.ts
-#EXTINF:-1,UK: MTV Music
-http://landiptv.live:8080/live/ricardo/ricardo/65095.ts
-#EXTINF:-1,UK: VH1
-http://landiptv.live:8080/live/ricardo/ricardo/65097.ts
-#EXTINF:-1,UK: Viva
-http://landiptv.live:8080/live/ricardo/ricardo/65098.ts
-#EXTINF:-1,UK: Sky MotoGP
-http://landiptv.live:8080/live/ricardo/ricardo/65100.ts
-#EXTINF:-1,UK: Russia Today News
-http://landiptv.live:8080/live/ricardo/ricardo/65101.ts
-#EXTINF:-1,UK: Investigation Discovery HD
-http://landiptv.live:8080/live/ricardo/ricardo/65102.ts
-#EXTINF:-1,UK: Hunting Channel
-http://landiptv.live:8080/live/ricardo/ricardo/65104.ts
-#EXTINF:-1,UK: DW
-http://landiptv.live:8080/live/ricardo/ricardo/65105.ts
-#EXTINF:-1,UK: Sony Movie
-http://landiptv.live:8080/live/ricardo/ricardo/65106.ts
-#EXTINF:-1,UK: Sony Sab
-http://landiptv.live:8080/live/ricardo/ricardo/65107.ts
-#EXTINF:-1,UK: Sony TV
-http://landiptv.live:8080/live/ricardo/ricardo/65108.ts
-#EXTINF:-1,UK: Sony Max
-http://landiptv.live:8080/live/ricardo/ricardo/65109.ts
-#EXTINF:-1,UK: Star Gold
-http://landiptv.live:8080/live/ricardo/ricardo/65110.ts
-#EXTINF:-1,UK: Alibi HD
-http://landiptv.live:8080/live/ricardo/ricardo/65112.ts
-#EXTINF:-1,UK: Sky Arts HD
-http://landiptv.live:8080/live/ricardo/ricardo/65113.ts
-#EXTINF:-1,UK: iFood
-http://landiptv.live:8080/live/ricardo/ricardo/65117.ts
-#EXTINF:-1,UK: True Movies HD
-http://landiptv.live:8080/live/ricardo/ricardo/65118.ts
-#EXTINF:-1,UK: CBS Reality
-http://landiptv.live:8080/live/ricardo/ricardo/65119.ts
-#EXTINF:-1,UK: CBS Drama
-http://landiptv.live:8080/live/ricardo/ricardo/65120.ts
-#EXTINF:-1,UK: CBS Action
-http://landiptv.live:8080/live/ricardo/ricardo/65121.ts
-#EXTINF:-1,UK: Movies24
-http://landiptv.live:8080/live/ricardo/ricardo/65122.ts
-#EXTINF:-1,UK: Movies4Men +1
-http://landiptv.live:8080/live/ricardo/ricardo/65123.ts
-#EXTINF:-1,UK: Movies4Men
-http://landiptv.live:8080/live/ricardo/ricardo/65124.ts
-#EXTINF:-1,UK: Baby TV
-http://landiptv.live:8080/live/ricardo/ricardo/65125.ts
-#EXTINF:-1,UK: Boomerang HD
-http://landiptv.live:8080/live/ricardo/ricardo/65126.ts
-#EXTINF:-1,UK: Nicktoons
-http://landiptv.live:8080/live/ricardo/ricardo/65129.ts
-#EXTINF:-1,UK: Nickelodeon HD
-http://landiptv.live:8080/live/ricardo/ricardo/65130.ts
-#EXTINF:-1,UK: Disney XD HD
-http://landiptv.live:8080/live/ricardo/ricardo/65134.ts
-#EXTINF:-1,UK: SKY Movies Disney
-http://landiptv.live:8080/live/ricardo/ricardo/65135.ts
-#EXTINF:-1,UK: Sky Living HD
-http://landiptv.live:8080/live/ricardo/ricardo/65136.ts
-#EXTINF:-1,UK: Gold
-http://landiptv.live:8080/live/ricardo/ricardo/65137.ts
-#EXTINF:-1,UK: HBO Comedy HD
-http://landiptv.live:8080/live/ricardo/ricardo/65139.ts
-#EXTINF:-1,UK: SKY SELECT HD
-http://landiptv.live:8080/live/ricardo/ricardo/65140.ts
-#EXTINF:-1,UK: SKY GREATS HD
-http://landiptv.live:8080/live/ricardo/ricardo/65142.ts
-#EXTINF:-1,UK: Sky Thriller HD
-http://landiptv.live:8080/live/ricardo/ricardo/65144.ts
-#EXTINF:-1,UK: SKY Crime & Thriller HD
-http://landiptv.live:8080/live/ricardo/ricardo/65145.ts
-#EXTINF:-1,UK: SKY Cinema Drama & Romance HD
-http://landiptv.live:8080/live/ricardo/ricardo/65146.ts
-#EXTINF:-1,UK: Sky Cinema Comedy HD
-http://landiptv.live:8080/live/ricardo/ricardo/65148.ts
-#EXTINF:-1,UK: SKY FAMILY HD
-http://landiptv.live:8080/live/ricardo/ricardo/65149.ts
-#EXTINF:-1,UK: Sky Showcase
-http://landiptv.live:8080/live/ricardo/ricardo/65151.ts
-#EXTINF:-1,UK: Sky Hits Showcase HD
-http://landiptv.live:8080/live/ricardo/ricardo/65152.ts
-#EXTINF:-1,UK: Sky Cinema Premiere HD
-http://landiptv.live:8080/live/ricardo/ricardo/65154.ts
-#EXTINF:-1,UK: Cinema Premiere (Beauty and the Beast 2017)
-http://landiptv.live:8080/live/ricardo/ricardo/65156.ts
-#EXTINF:-1,UK: Sky Atlantic HD
-http://landiptv.live:8080/live/ricardo/ricardo/65157.ts
-#EXTINF:-1,UK: SKY Two HD
-http://landiptv.live:8080/live/ricardo/ricardo/65158.ts
-#EXTINF:-1,UK: Sky One HD
-http://landiptv.live:8080/live/ricardo/ricardo/65159.ts
-#EXTINF:-1,UK: Comedy Central HD
-http://landiptv.live:8080/live/ricardo/ricardo/65160.ts
-#EXTINF:-1,UK: Lifetime HD
-http://landiptv.live:8080/live/ricardo/ricardo/65161.ts
-#EXTINF:-1,UK: TCM HD
-http://landiptv.live:8080/live/ricardo/ricardo/65162.ts
-#EXTINF:-1,UK: Fox HD
-http://landiptv.live:8080/live/ricardo/ricardo/65163.ts
-#EXTINF:-1,UK: Syfy HD
-http://landiptv.live:8080/live/ricardo/ricardo/65165.ts
-#EXTINF:-1,UK: TLC IRELAND
-http://landiptv.live:8080/live/ricardo/ricardo/65166.ts
-#EXTINF:-1,UK: Watch HD
-http://landiptv.live:8080/live/ricardo/ricardo/65168.ts
-#EXTINF:-1,UK: ITV Encore HD
-http://landiptv.live:8080/live/ricardo/ricardo/65173.ts
-#EXTINF:-1,UK: E! HD
-http://landiptv.live:8080/live/ricardo/ricardo/65174.ts
-#EXTINF:-1,UK: 3E HD
-http://landiptv.live:8080/live/ricardo/ricardo/65175.ts
-#EXTINF:-1,UK: RTE Junior
-http://landiptv.live:8080/live/ricardo/ricardo/65176.ts
-#EXTINF:-1,UK: RTE ONE HD
-http://landiptv.live:8080/live/ricardo/ricardo/65177.ts
-#EXTINF:-1,UK: RTE TWO HD
-http://landiptv.live:8080/live/ricardo/ricardo/65178.ts
-#EXTINF:-1,UK: RTE NEWS
-http://landiptv.live:8080/live/ricardo/ricardo/65179.ts
-#EXTINF:-1,UK: BBC Four HD
-http://landiptv.live:8080/live/ricardo/ricardo/65182.ts
-#EXTINF:-1,UK: BBC News HD
-http://landiptv.live:8080/live/ricardo/ricardo/65183.ts
-#EXTINF:-1,UK: CBBC Three
-http://landiptv.live:8080/live/ricardo/ricardo/65184.ts
-#EXTINF:-1,UK: BBC One HD
-http://landiptv.live:8080/live/ricardo/ricardo/65186.ts
-#EXTINF:-1,UK: MUTV HD
-http://landiptv.live:8080/live/ricardo/ricardo/74521.ts
-#EXTINF:-1,UK: LFC TV
-http://landiptv.live:8080/live/ricardo/ricardo/74522.ts
-#EXTINF:-1,UK: SKY PREMIERE +1
-http://landiptv.live:8080/live/ricardo/ricardo/74535.ts
-#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror HD
-http://landiptv.live:8080/live/ricardo/ricardo/74545.ts
-#EXTINF:-1,UK: SKY HITS HD
-http://landiptv.live:8080/live/ricardo/ricardo/74547.ts
-#EXTINF:-1,UK: BBC Two HD
-http://landiptv.live:8080/live/ricardo/ricardo/74561.ts
-#EXTINF:-1,UK: BBC World News
-http://landiptv.live:8080/live/ricardo/ricardo/74563.ts
-#EXTINF:-1,UK: SKY 1
-http://landiptv.live:8080/live/ricardo/ricardo/74564.ts
-#EXTINF:-1,UK: ITV HD
-http://landiptv.live:8080/live/ricardo/ricardo/74566.ts
-#EXTINF:-1,UK: London Live
-http://landiptv.live:8080/live/ricardo/ricardo/74568.ts
-#EXTINF:-1,UK: More4
-http://landiptv.live:8080/live/ricardo/ricardo/74571.ts
-#EXTINF:-1,UK: 4SEVEN HD
-http://landiptv.live:8080/live/ricardo/ricardo/74572.ts
-#EXTINF:-1,UK: DMAX HD
-http://landiptv.live:8080/live/ricardo/ricardo/74573.ts
-#EXTINF:-1,UK: UNIVERSAL HD
-http://landiptv.live:8080/live/ricardo/ricardo/74574.ts
-#EXTINF:-1,UK: My5
-http://landiptv.live:8080/live/ricardo/ricardo/74575.ts
-#EXTINF:-1,UK: E4 HD
-http://landiptv.live:8080/live/ricardo/ricardo/74576.ts
-#EXTINF:-1,UK: Eden HD
-http://landiptv.live:8080/live/ricardo/ricardo/74577.ts
-#EXTINF:-1,UK: Comedy Central Extra
-http://landiptv.live:8080/live/ricardo/ricardo/74579.ts
-#EXTINF:-1,UK: Your TV
-http://landiptv.live:8080/live/ricardo/ricardo/74580.ts
-#EXTINF:-1,UK: TG 4
-http://landiptv.live:8080/live/ricardo/ricardo/74585.ts
-#EXTINF:-1,UK: 5Star
-http://landiptv.live:8080/live/ricardo/ricardo/74587.ts
-#EXTINF:-1,UK: SPIKE
-http://landiptv.live:8080/live/ricardo/ricardo/74588.ts
-#EXTINF:-1,UK: BET
-http://landiptv.live:8080/live/ricardo/ricardo/74589.ts
-#EXTINF:-1,UK: CITV
-http://landiptv.live:8080/live/ricardo/ricardo/74590.ts
-#EXTINF:-1,UK: Tiny POP
-http://landiptv.live:8080/live/ricardo/ricardo/74591.ts
-#EXTINF:-1,UK: H2 HD
-http://landiptv.live:8080/live/ricardo/ricardo/74597.ts
-#EXTINF:-1,UK: Travel Channel
-http://landiptv.live:8080/live/ricardo/ricardo/74601.ts
-#EXTINF:-1,UK: 4MUSIC
-http://landiptv.live:8080/live/ricardo/ricardo/74604.ts
-#EXTINF:-1,UK: Fox News
-http://landiptv.live:8080/live/ricardo/ricardo/74608.ts
-#EXTINF:-1,UK: Euronews
-http://landiptv.live:8080/live/ricardo/ricardo/74609.ts
-#EXTINF:-1,UK: Sky Musicals HD
-http://landiptv.live:8080/live/ricardo/ricardo/74690.ts
-#EXTINF:-1,UK: Sky 3D
-http://landiptv.live:8080/live/ricardo/ricardo/74696.ts
-#EXTINF:-1,UK: BoxOffice 3
-http://landiptv.live:8080/live/ricardo/ricardo/74697.ts
-#EXTINF:-1,UK: Pop Max
-http://landiptv.live:8080/live/ricardo/ricardo/74706.ts
-#EXTINF:-1,UK: W HD
-http://landiptv.live:8080/live/ricardo/ricardo/74716.ts
-#EXTINF:-1,UK: ITV2 +1
-http://landiptv.live:8080/live/ricardo/ricardo/74719.ts
-#EXTINF:-1,UK: ITV4 +1
-http://landiptv.live:8080/live/ricardo/ricardo/74720.ts
-#EXTINF:-1,UK: Quest Red
-http://landiptv.live:8080/live/ricardo/ricardo/74721.ts
-#EXTINF:-1,UK: Challenge
-http://landiptv.live:8080/live/ricardo/ricardo/74722.ts
-#EXTINF:-1,UK: S4C
-http://landiptv.live:8080/live/ricardo/ricardo/74723.ts
-#EXTINF:-1,UK: 5 USA +1
-http://landiptv.live:8080/live/ricardo/ricardo/74729.ts
-#EXTINF:-1,UK: UTV HD
-http://landiptv.live:8080/live/ricardo/ricardo/74731.ts
-#EXTINF:-1,UK: BBC Parliament
-http://landiptv.live:8080/live/ricardo/ricardo/74734.ts
-#EXTINF:-1,UK: BBC Alba
-http://landiptv.live:8080/live/ricardo/ricardo/74735.ts
-#EXTINF:-1,UK: Arise News
-http://landiptv.live:8080/live/ricardo/ricardo/74736.ts
-#EXTINF:-1,UK: FRANCE 24
-http://landiptv.live:8080/live/ricardo/ricardo/74737.ts
-#EXTINF:-1,UK: CBSN News
-http://landiptv.live:8080/live/ricardo/ricardo/74738.ts
-#EXTINF:-1,UK: Channels Television
-http://landiptv.live:8080/live/ricardo/ricardo/74741.ts
-#EXTINF:-1,UK: CNN NEWS
-http://landiptv.live:8080/live/ricardo/ricardo/74742.ts
-#EXTINF:-1,UK: Bloomberg
-http://landiptv.live:8080/live/ricardo/ricardo/74743.ts
-#EXTINF:-1,UK: Discovery HOME & HEALTH
-http://landiptv.live:8080/live/ricardo/ricardo/74758.ts
-#EXTINF:-1,UK: Film 4 HD
-http://landiptv.live:8080/live/ricardo/ricardo/74759.ts
-#EXTINF:-1,UK: Sky Movies Modern Greats HD
-http://landiptv.live:8080/live/ricardo/ricardo/74760.ts
-#EXTINF:-1,UK: Setanta Ireland
-http://landiptv.live:8080/live/ricardo/ricardo/74761.ts
-#EXTINF:-1,UK: Sky Great HD
-http://landiptv.live:8080/live/ricardo/ricardo/74765.ts
-#EXTINF:-1,UK: VH1
-http://landiptv.live:8080/live/ricardo/ricardo/74774.ts
-#EXTINF:-1,UK: Sky Movies Thriller HD
-http://landiptv.live:8080/live/ricardo/ricardo/74775.ts
-#EXTINF:-1,UK: Sky Movies Drama HD
-http://landiptv.live:8080/live/ricardo/ricardo/74776.ts
-#EXTINF:-1,UK: Channel4 HD
-http://landiptv.live:8080/live/ricardo/ricardo/74789.ts
-#EXTINF:-1,UK: Channel5 HD
-http://landiptv.live:8080/live/ricardo/ricardo/74790.ts
-#EXTINF:-1,UK: CNN HD
-http://landiptv.live:8080/live/ricardo/ricardo/74792.ts
-#EXTINF:-1,UK: Discovery Shed
-http://landiptv.live:8080/live/ricardo/ricardo/74794.ts
-#EXTINF:-1,UK: Drama
-http://landiptv.live:8080/live/ricardo/ricardo/74796.ts
-#EXTINF:-1,UK: Food Network HD
-http://landiptv.live:8080/live/ricardo/ricardo/74799.ts
-#EXTINF:-1,UK: History HD
-http://landiptv.live:8080/live/ricardo/ricardo/74802.ts
-#EXTINF:-1,UK: Horror Channel
-http://landiptv.live:8080/live/ricardo/ricardo/74804.ts
-#EXTINF:-1,UK: NAT GEO Wild HD
-http://landiptv.live:8080/live/ricardo/ricardo/74807.ts
-#EXTINF:-1,UK: NAT GEO HD
-http://landiptv.live:8080/live/ricardo/ricardo/74808.ts
-#EXTINF:-1,UK: Disney Junior HD
-http://landiptv.live:8080/live/ricardo/ricardo/65133.ts
-#EXTINF:-1,UK: Cartoonito
-http://landiptv.live:8080/live/ricardo/ricardo/74593.ts
-#EXTINF:-1,UK: Disney Channel HD
-http://landiptv.live:8080/live/ricardo/ricardo/74594.ts
-#EXTINF:-1,UK: Nickelodeon +1
-http://landiptv.live:8080/live/ricardo/ricardo/74705.ts
-#EXTINF:-1,UK: Cartoon Network HD
-http://landiptv.live:8080/live/ricardo/ricardo/74786.ts
-#EXTINF:-1,UK: ITV Box Office HD
-http://landiptv.live:8080/live/ricardo/ricardo/65022.ts
-#EXTINF:-1,UK: Sky Cinema Hits HD
-http://landiptv.live:8080/live/ricardo/ricardo/80381.ts
-#EXTINF:-1,UK: HISTOR
-http://landiptv.live:8080/live/ricardo/ricardo/80400.ts
-#EXTINF:-1,UK: Setanta Sport
-http://landiptv.live:8080/live/ricardo/ricardo/65015.ts
-#EXTINF:-1,UK: EDGE SPORT HD
-http://landiptv.live:8080/live/ricardo/ricardo/65066.ts
-#EXTINF:-1,UK: Premier Sports HD
-http://landiptv.live:8080/live/ricardo/ricardo/65067.ts
-#EXTINF:-1,UK: Super Sport 2
-http://landiptv.live:8080/live/ricardo/ricardo/74658.ts
-#EXTINF:-1,UK: Ginxe Sports TV
-http://landiptv.live:8080/live/ricardo/ricardo/74685.ts
-#EXTINF:-1,UK: BBC Earth
-http://landiptv.live:8080/live/ricardo/ricardo/86280.ts
-#EXTINF:-1,UK: BBC Entertainment
-http://landiptv.live:8080/live/ricardo/ricardo/86281.ts
-#EXTINF:-1,UK: 5 SELECT
-http://landiptv.live:8080/live/ricardo/ricardo/86300.ts
-#EXTINF:-1,UK: CRIME & INVESTIGATION HD
-http://landiptv.live:8080/live/ricardo/ricardo/86302.ts
-#EXTINF:-1,UK: Fine Living Network
-http://landiptv.live:8080/live/ricardo/ricardo/86312.ts
-#EXTINF:-1,UK: Racing HD
-http://landiptv.live:8080/live/ricardo/ricardo/86331.ts
-#EXTINF:-1,UK: Sky Movies Select HD
-http://landiptv.live:8080/live/ricardo/ricardo/86333.ts
-#EXTINF:-1,UK: SyFy UK
-http://landiptv.live:8080/live/ricardo/ricardo/86340.ts
-#EXTINF:-1,UK: Sky Cinema Oscars
-http://landiptv.live:8080/live/ricardo/ricardo/88313.ts
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller HD
-http://landiptv.live:8080/live/ricardo/ricardo/88316.ts
-#EXTINF:-1,UK: Sky Cinema Family HD
-http://landiptv.live:8080/live/ricardo/ricardo/88320.ts
-#EXTINF:-1,UK: SHOWCASE
-http://landiptv.live:8080/live/ricardo/ricardo/88686.ts
-#EXTINF:-1,UK: HBO HD
-http://landiptv.live:8080/live/ricardo/ricardo/91383.ts
-#EXTINF:-1,UK: Eurosport 1 HD
-http://landiptv.live:8080/live/ricardo/ricardo/91439.ts
-#EXTINF:-1,UK: Sky Cinema Modern Greats HD
-http://landiptv.live:8080/live/ricardo/ricardo/91457.ts
-#EXTINF:-1,UK: True Movie
-http://landiptv.live:8080/live/ricardo/ricardo/92612.ts
-#EXTINF:-1,UK: Sky Movie Thriller
-http://landiptv.live:8080/live/ricardo/ricardo/93063.ts
-#EXTINF:-1,UK: Sky Movie Family
-http://landiptv.live:8080/live/ricardo/ricardo/93066.ts
-#EXTINF:-1,UK: Sky Movie Drama
-http://landiptv.live:8080/live/ricardo/ricardo/93070.ts
-#EXTINF:-1,UK: CHELSEA
-http://landiptv.live:8080/live/ricardo/ricardo/93244.ts
-#EXTINF:-1,UK: WWE Raw Network HD
-http://landiptv.live:8080/live/ricardo/ricardo/93245.ts
-#EXTINF:-1,UK: WWE HD
-http://landiptv.live:8080/live/ricardo/ricardo/93246.ts
-#EXTINF:-1,UK: WWE 24
-http://landiptv.live:8080/live/ricardo/ricardo/93247.ts
-#EXTINF:-1,UK: Premier Sport HD
-http://landiptv.live:8080/live/ricardo/ricardo/93328.ts
-#EXTINF:-1,UK: Sky Cinema Select HD
-http://landiptv.live:8080/live/ricardo/ricardo/93470.ts
-#EXTINF:-1,UK: Sky Living FHD
-http://landiptv.live:8080/live/ricardo/ricardo/93472.ts
-#EXTINF:-1,UK: ITV BOX OFFICE (Live During Events Only)
-http://landiptv.live:8080/live/ricardo/ricardo/93907.ts
-#EXTINF:-1,UK: TCM (film)
-http://landiptv.live:8080/live/ricardo/ricardo/94176.ts
-#EXTINF:-1,UK: Keep It Country TV
-http://landiptv.live:8080/live/ricardo/ricardo/94189.ts
-#EXTINF:-1,UK: AMC HD
-http://landiptv.live:8080/live/ricardo/ricardo/63034.ts
-#EXTINF:-1,UK: RTE1 HD
-http://landiptv.live:8080/live/ricardo/ricardo/91966.ts
-#EXTINF:-1,UK: RTE2 HD
-http://landiptv.live:8080/live/ricardo/ricardo/91967.ts
-#EXTINF:-1,UK: SKY CINEMA PREMIER 1
-http://landiptv.live:8080/live/ricardo/ricardo/94779.ts
-#EXTINF:-1,UK: Eurosport 1 FHD
-http://landiptv.live:8080/live/ricardo/ricardo/94786.ts
-#EXTINF:-1,UK: HBO 2 FHD
-http://landiptv.live:8080/live/ricardo/ricardo/94789.ts
-#EXTINF:-1,UK: NAT GEO FHD
-http://landiptv.live:8080/live/ricardo/ricardo/94791.ts
-#EXTINF:-1,UK: Animal Planet FHD
-http://landiptv.live:8080/live/ricardo/ricardo/94793.ts
-#EXTINF:-1,UK: History FHD
-http://landiptv.live:8080/live/ricardo/ricardo/94795.ts
-#EXTINF:-1,UK: MGM FHD
-http://landiptv.live:8080/live/ricardo/ricardo/94796.ts
-#EXTINF:-1,UK: PPV WWE
-http://landiptv.live:8080/live/ricardo/ricardo/94806.ts
-#EXTINF:-1,UK: WWE NETWORK
-http://landiptv.live:8080/live/ricardo/ricardo/74519.ts
-#EXTINF:-1,UK: TV3
-http://landiptv.live:8080/live/ricardo/ricardo/74567.ts
-#EXTINF:-1,UK: REAL LIVES
-http://landiptv.live:8080/live/ricardo/ricardo/74582.ts
-#EXTINF:-1,UK: UTV Ireland
-http://landiptv.live:8080/live/ricardo/ricardo/74586.ts
-#EXTINF:-1,UK: CAPITAL TV MUSIC
-http://landiptv.live:8080/live/ricardo/ricardo/74602.ts
-#EXTINF:-1,UK: NOW 80s
-http://landiptv.live:8080/live/ricardo/ricardo/74605.ts
-#EXTINF:-1,UK: RUSSIA TODAY
-http://landiptv.live:8080/live/ricardo/ricardo/74610.ts
-#EXTINF:-1,UK: HUM TV EUROPE
-http://landiptv.live:8080/live/ricardo/ricardo/74611.ts
-#EXTINF:-1,UK: B4U Music
-http://landiptv.live:8080/live/ricardo/ricardo/86866.ts
-#EXTINF:-1,UK: &TV
-http://landiptv.live:8080/live/ricardo/ricardo/87030.ts
-#EXTINF:-1,UK: PRIME TV UK
-http://landiptv.live:8080/live/ricardo/ricardo/91384.ts
-#EXTINF:-1,UK: CHANNEL AKAAL
-http://landiptv.live:8080/live/ricardo/ricardo/91386.ts
-#EXTINF:-1,UK: ARY DIGITAL
-http://landiptv.live:8080/live/ricardo/ricardo/91387.ts
-#EXTINF:-1,UK: AL JAZEERA NEWS ENGLISH
-http://landiptv.live:8080/live/ricardo/ricardo/91389.ts
-#EXTINF:-1,UK: BLOOMBERG NEWS
-http://landiptv.live:8080/live/ricardo/ricardo/91391.ts
-#EXTINF:-1,UK: HUM MASALA
-http://landiptv.live:8080/live/ricardo/ricardo/91394.ts
-#EXTINF:-1,UK: SETANTA SPORTS
-http://landiptv.live:8080/live/ricardo/ricardo/91400.ts
-#EXTINF:-1,UK: DUNYA NEWS
-http://landiptv.live:8080/live/ricardo/ricardo/91417.ts
-#EXTINF:-1,UK: NOLLLYWOOD
-http://landiptv.live:8080/live/ricardo/ricardo/91418.ts
-#EXTINF:-1,UK: E! Entertainment
-http://landiptv.live:8080/live/ricardo/ricardo/91422.ts
-#EXTINF:-1,UK: ABP NEWS
-http://landiptv.live:8080/live/ricardo/ricardo/91433.ts
-#EXTINF:-1,UK: RISHTEY TV
-http://landiptv.live:8080/live/ricardo/ricardo/91454.ts
-#EXTINF:-1,UK: SIKH TV
-http://landiptv.live:8080/live/ricardo/ricardo/91455.ts
-#EXTINF:-1,UK: STAR BHARAT
-http://landiptv.live:8080/live/ricardo/ricardo/91458.ts
-#EXTINF:-1,UK: STAR PLUS
-http://landiptv.live:8080/live/ricardo/ricardo/91459.ts
-#EXTINF:-1,UK: ZING TV
-http://landiptv.live:8080/live/ricardo/ricardo/91468.ts
-#EXTINF:-1,UK: MTV Base HD
-http://landiptv.live:8080/live/ricardo/ricardo/95572.ts
-#EXTINF:-1,UK: MTV Live HD
-http://landiptv.live:8080/live/ricardo/ricardo/95573.ts
-#EXTINF:-1,UK: REALY
-http://landiptv.live:8080/live/ricardo/ricardo/74727.ts
-#EXTINF:-1,UK: Africa News
-http://landiptv.live:8080/live/ricardo/ricardo/65041.ts
-#EXTINF:-1,UK: ABC News
-http://landiptv.live:8080/live/ricardo/ricardo/96992.ts
-#EXTINF:-1,UK: Sky Cinema Premiere Plus
-http://landiptv.live:8080/live/ricardo/ricardo/97047.ts
-#EXTINF:-1,UK: MOTORSPORT TV
-http://landiptv.live:8080/live/ricardo/ricardo/97053.ts
-#EXTINF:-1,UK: CBBC
-http://landiptv.live:8080/live/ricardo/ricardo/74569.ts
-#EXTINF:-1,UK: Pick TV
-http://landiptv.live:8080/live/ricardo/ricardo/91965.ts
-#EXTINF:-1,UK: Sky Movies Showcase
-http://landiptv.live:8080/live/ricardo/ricardo/94661.ts
+#EXTINF:-1,SPO: Eurosport News (UK)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/3513
+#EXTINF:-1,SPO: FOX Sports 2 (UK)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/3516
+#EXTINF:-1,SPO: Eurosport 2 (UK)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/3515
+#EXTINF:-1,SPO: Eurosport 1 (UK)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/3514
+#EXTINF:-1,SPO: FOX Sports 1 (UK)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/3517
+#EXTINF:-1,SPO: Bein Sports 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2563
+#EXTINF:-1,SPO: Bein Sports 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2562
+#EXTINF:-1,SPO: Bein Sports 3 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2561
+#EXTINF:-1,SPO: Bein Sports 4 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2560
+#EXTINF:-1,SPO: Bein Sports 5 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2559
+#EXTINF:-1,SPO: Bein Sports 6 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2558
+#EXTINF:-1,SPO: Bein Sports 7 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2557
+#EXTINF:-1,SPO: Bein Sports 8 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2556
+#EXTINF:-1,SPO: Bein Sports 9 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2555
+#EXTINF:-1,SPO: Bein Sports 10 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2554
+#EXTINF:-1,SPO: Bein Sports 11 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2553
+#EXTINF:-1,SPO: Bein Sports 12 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2552
+#EXTINF:-1,SPO: Bein Sports 1 FR HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2600
+#EXTINF:-1,SPO: Bein Sports 3 FR HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2602
+#EXTINF:-1,SPO: Bein Sports 2 FR HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2601
+#EXTINF:-1,SPO: Ad Sport 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2551
+#EXTINF:-1,SPO: Ad Sport 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2550
+#EXTINF:-1,SPO: Ad Sport 3 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2549
+#EXTINF:-1,SPO: Ad Sport 4 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2548
+#EXTINF:-1,SPO: Ad Sport 5
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/2547
+#EXTINF:-1,SPO: Sport 1 HD (SLO)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4641
+#EXTINF:-1,SPO: Sport 2 HD (SLO)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4640
+#EXTINF:-1,SPO: Sport 3 HD (SLO)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4639
+#EXTINF:-1,SPO: Arena Sport 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4630
+#EXTINF:-1,SPO: Arena Sport 1
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4631
+#EXTINF:-1,SPO: Super Sport 1 (ALB)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4634
+#EXTINF:-1,SPO: Super Sport 2 (ALB)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4633
+#EXTINF:-1,SPO: Super Sport 3 (ALB)
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4632
+#EXTINF:-1,SPO: Super Sport Kosova 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4642
+#EXTINF:-1,SPO: Super Sport Kosova 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4643
+#EXTINF:-1,SPO: Tring Sport 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4638
+#EXTINF:-1,SPO: Tring Sport 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4637
+#EXTINF:-1,SPO: Tring Sport 3 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4636
+#EXTINF:-1,SPO: Tring Sport 4 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4635
+#EXTINF:-1,DE: EUROSPORT HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/10516
+#EXTINF:-1,DE: EUROSPORT 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/10517
+#EXTINF:-1,DE: EUROSPORT 2 EXTRA HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/10518
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/673
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/672
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/671
+#EXTINF:-1,DE: Sky Sport 4 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/670
+#EXTINF:-1,DE: Sky Sport News HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/674
+#EXTINF:-1,DE: Sport Digital HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/654
+#EXTINF:-1,DE: sportdigital HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/14177
+#EXTINF:-1,DE: Sport1  HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/12366
+#EXTINF:-1,DE: Sport 1
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/12365
+#EXTINF:-1,DE: Sport1+  HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/656
+#EXTINF:-1,DE: Sport1 US HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/655
+#EXTINF:-1,UK: SKY Sports Golf HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4456
+#EXTINF:-1,UK: Premiere Sport HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4455
+#EXTINF:-1,UK: Sky Sports Action HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4466
+#EXTINF:-1,UK: SKY Sports Mix HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4465
+#EXTINF:-1,UK: SKY Sports Darts HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4464
+#EXTINF:-1,UK: SKY Sports Main Event HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4463
+#EXTINF:-1,UK: SKY Sports Premir HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4462
+#EXTINF:-1,UK: SKY SPORTS F1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4461
+#EXTINF:-1,UK: SKY SPORTS NEWS HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4460
 #EXTINF:-1,UK: Motors TV
-http://landiptv.live:8080/live/ricardo/ricardo/97001.ts
-#EXTINF:-1,UK: Chelsea FC
-http://landiptv.live:8080/live/ricardo/ricardo/98241.ts
-#EXTINF:-1,UK: Bike
-http://landiptv.live:8080/live/ricardo/ricardo/99064.ts
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4454
+#EXTINF:-1,UK: Racing-HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4451
+#EXTINF:-1,UK: EIR SPORT 1
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8840
+#EXTINF:-1,UK: EIR SPORT 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8841
+#EXTINF:-1,UK: EUROSPORT 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8842
+#EXTINF:-1,UK: EUROSPORT 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4444
 #EXTINF:-1,UK: Box Nation
-http://landiptv.live:8080/live/ricardo/ricardo/99066.ts
-#EXTINF:-1,UK: Challange
-http://landiptv.live:8080/live/ricardo/ricardo/99069.ts
-#EXTINF:-1,UK: Crime and Investigation
-http://landiptv.live:8080/live/ricardo/ricardo/99072.ts
-#EXTINF:-1,UK: Discovery Investigation
-http://landiptv.live:8080/live/ricardo/ricardo/99073.ts
-#EXTINF:-1,UK: Disney Movies
-http://landiptv.live:8080/live/ricardo/ricardo/99076.ts
-#EXTINF:-1,UK: ESPN
-http://landiptv.live:8080/live/ricardo/ricardo/99082.ts
-#EXTINF:-1,UK: Eurosport 2 HD
-http://landiptv.live:8080/live/ricardo/ricardo/99085.ts
-#EXTINF:-1,UK: Fast & Fun Box Hits
-http://landiptv.live:8080/live/ricardo/ricardo/99086.ts
-#EXTINF:-1,UK: History Channel
-http://landiptv.live:8080/live/ricardo/ricardo/99093.ts
-#EXTINF:-1,UK: Irish TV
-http://landiptv.live:8080/live/ricardo/ricardo/99095.ts
-#EXTINF:-1,UK: Kix
-http://landiptv.live:8080/live/ricardo/ricardo/99101.ts
-#EXTINF:-1,UK: MTV HD
-http://landiptv.live:8080/live/ricardo/ricardo/99105.ts
-#EXTINF:-1,UK: RT
-http://landiptv.live:8080/live/ricardo/ricardo/99110.ts
-#EXTINF:-1,UK: RTE JR
-http://landiptv.live:8080/live/ricardo/ricardo/99113.ts
-#EXTINF:-1,UK: STV
-http://landiptv.live:8080/live/ricardo/ricardo/99114.ts
-#EXTINF:-1,UK: Sky Cinema Box Office 1
-http://landiptv.live:8080/live/ricardo/ricardo/99117.ts
-#EXTINF:-1,UK: Sky Cinema Box Office 2
-http://landiptv.live:8080/live/ricardo/ricardo/99118.ts
-#EXTINF:-1,UK: Sky Cinema Box Office 3
-http://landiptv.live:8080/live/ricardo/ricardo/99119.ts
-#EXTINF:-1,UK: Sky Cinema Box Office 4
-http://landiptv.live:8080/live/ricardo/ricardo/99120.ts
-#EXTINF:-1,UK: Sky Living UK
-http://landiptv.live:8080/live/ricardo/ricardo/99122.ts
-#EXTINF:-1,UK: Sony Movies
-http://landiptv.live:8080/live/ricardo/ricardo/99127.ts
-#EXTINF:-1,UK: True Crime
-http://landiptv.live:8080/live/ricardo/ricardo/99131.ts
-#EXTINF:-1,UK: True Entertainment
-http://landiptv.live:8080/live/ricardo/ricardo/99132.ts
-#EXTINF:-1,UK: TV3 Plus 1
-http://landiptv.live:8080/live/ricardo/ricardo/99134.ts
-#EXTINF:-1,UK: World Fight Channel
-http://landiptv.live:8080/live/ricardo/ricardo/99138.ts
-#EXTINF:-1,UK: Sky Cinema Disney HD
-http://landiptv.live:8080/live/ricardo/ricardo/98206.ts
-#EXTINF:-1,UK: Channel5 FHD
-http://landiptv.live:8080/live/ricardo/ricardo/98240.ts
-#EXTINF:-1,UK: HISTORY 2 HD
-http://landiptv.live:8080/live/ricardo/ricardo/98244.ts
-#EXTINF:-1,UK: STV FHD
-http://landiptv.live:8080/live/ricardo/ricardo/98263.ts
-#EXTINF:-1,UK: LIVERPOOL TV
-http://landiptv.live:8080/live/ricardo/ricardo/85019.ts
-#EXTINF:-1,UK: SKY ARTS 1 HD
-http://landiptv.live:8080/live/ricardo/ricardo/91968.ts
-#EXTINF:-1,UK: CHANNEL 2
-http://landiptv.live:8080/live/ricardo/ricardo/99577.ts
-#EXTINF:-1,UK: DISCOVERY HISTORY 1 HD
-http://landiptv.live:8080/live/ricardo/ricardo/99585.ts
-#EXTINF:-1,UK: EDEN 1
-http://landiptv.live:8080/live/ricardo/ricardo/99588.ts
-#EXTINF:-1,UK: GOLD TV
-http://landiptv.live:8080/live/ricardo/ricardo/99590.ts
-#EXTINF:-1,UK: MOVIES 4 MAN
-http://landiptv.live:8080/live/ricardo/ricardo/99596.ts
-#EXTINF:-1,UK: OUTDOR CHANNEL
-http://landiptv.live:8080/live/ricardo/ricardo/99598.ts
-#EXTINF:-1,UK: RTE 3 Junior
-http://landiptv.live:8080/live/ricardo/ricardo/99600.ts
-#EXTINF:-1,UK: SETANTA SPOR
-http://landiptv.live:8080/live/ricardo/ricardo/99602.ts
-#EXTINF:-1,UK: SKY 2
-http://landiptv.live:8080/live/ricardo/ricardo/99603.ts
-#EXTINF:-1,UK: SKY MOVIES ATLANTIC HD
-http://landiptv.live:8080/live/ricardo/ricardo/99605.ts
-#EXTINF:-1,UK: SKY MOVIES HITS SHOWCASE HD
-http://landiptv.live:8080/live/ricardo/ricardo/99606.ts
-#EXTINF:-1,UK: TCM 1
-http://landiptv.live:8080/live/ricardo/ricardo/99608.ts
-#EXTINF:-1,UK: Discovery Channel HD
-http://landiptv.live:8080/live/ricardo/ricardo/92586.ts
-#EXTINF:-1,UK: Sky Movies Premiere
-http://landiptv.live:8080/live/ricardo/ricardo/92603.ts
-#EXTINF:-1,UK: RTE News Now
-http://landiptv.live:8080/live/ricardo/ricardo/98259.ts
-#EXTINF:-1,UK: EirSport 1
-http://landiptv.live:8080/live/ricardo/ricardo/99617.ts
-#EXTINF:-1,UK: ITV1 FHD
-http://landiptv.live:8080/live/ricardo/ricardo/99900.ts
-#EXTINF:-1,UK: Community
-http://landiptv.live:8080/live/ricardo/ricardo/99902.ts
-#EXTINF:-1,UK: Channel4 FHD
-http://landiptv.live:8080/live/ricardo/ricardo/99907.ts
-#EXTINF:-1,UK: Bloomberg Europe TV
-http://landiptv.live:8080/live/ricardo/ricardo/99911.ts
-#EXTINF:-1,UK: TV3 Ireland
-http://landiptv.live:8080/live/ricardo/ricardo/99917.ts
-#EXTINF:-1,UK: TG4 Ireland
-http://landiptv.live:8080/live/ricardo/ricardo/99918.ts
-#EXTINF:-1,UK: Syfy TV
-http://landiptv.live:8080/live/ricardo/ricardo/99919.ts
-#EXTINF:-1,UK: Gold Channel
-http://landiptv.live:8080/live/ricardo/ricardo/99922.ts
-#EXTINF:-1,UK: Nick Junior
-http://landiptv.live:8080/live/ricardo/ricardo/99925.ts
-#EXTINF:-1,UK: NAT GEO Channel
-http://landiptv.live:8080/live/ricardo/ricardo/99930.ts
-#EXTINF:-1,UK: Docubox HD
-http://landiptv.live:8080/live/ricardo/ricardo/99931.ts
-#EXTINF:-1,UK: Fishing & Hunting
-http://landiptv.live:8080/live/ricardo/ricardo/99932.ts
-#EXTINF:-1,UK: Sky Movies Action HD
-http://landiptv.live:8080/live/ricardo/ricardo/99938.ts
-#EXTINF:-1,UK: Sky Movies Modern Great
-http://landiptv.live:8080/live/ricardo/ricardo/99939.ts
-#EXTINF:-1,UK: Sky Movies Scfi
-http://landiptv.live:8080/live/ricardo/ricardo/99940.ts
-#EXTINF:-1,UK: Sky Drama & Romance
-http://landiptv.live:8080/live/ricardo/ricardo/99941.ts
-#EXTINF:-1,UK: BoxOffice
-http://landiptv.live:8080/live/ricardo/ricardo/99950.ts
-#EXTINF:-1,UK: Motor TV
-http://landiptv.live:8080/live/ricardo/ricardo/99952.ts
-#EXTINF:-1,UK: Fightbox HD
-http://landiptv.live:8080/live/ricardo/ricardo/99955.ts
-#EXTINF:-1,UK: Celtic TV
-http://landiptv.live:8080/live/ricardo/ricardo/99959.ts
-#EXTINF:-1,UK: VH1+
-http://landiptv.live:8080/live/ricardo/ricardo/99961.ts
-#EXTINF:-1,UK: BoxOffice 10
-http://landiptv.live:8080/live/ricardo/ricardo/100445.ts
-#EXTINF:-1,UK: BoxOffice 5
-http://landiptv.live:8080/live/ricardo/ricardo/100449.ts
-#EXTINF:-1,UK: BoxOffice 6
-http://landiptv.live:8080/live/ricardo/ricardo/100450.ts
-#EXTINF:-1,UK: BoxOffice 7
-http://landiptv.live:8080/live/ricardo/ricardo/100451.ts
-#EXTINF:-1,UK: BoxOffice 8
-http://landiptv.live:8080/live/ricardo/ricardo/100452.ts
-#EXTINF:-1,UK: BoxOffice 9
-http://landiptv.live:8080/live/ricardo/ricardo/100453.ts
-#EXTINF:-1,###### USA ######
-http://landiptv.live:8080/live/ricardo/ricardo/93395.ts
-#EXTINF:-1,US: HBO FHD
-http://landiptv.live:8080/live/ricardo/ricardo/78351.ts
-#EXTINF:-1,US: HBO Family FHD
-http://landiptv.live:8080/live/ricardo/ricardo/78353.ts
-#EXTINF:-1,US: HBO Zone FHD
-http://landiptv.live:8080/live/ricardo/ricardo/78354.ts
-#EXTINF:-1,US: Showtime 2 FHD
-http://landiptv.live:8080/live/ricardo/ricardo/78342.ts
-#EXTINF:-1,US: Cinemax Moremax
-http://landiptv.live:8080/live/ricardo/ricardo/74853.ts
-#EXTINF:-1,US: Cinemax 5 Max
-http://landiptv.live:8080/live/ricardo/ricardo/74901.ts
-#EXTINF:-1,US: HBO Family HD
-http://landiptv.live:8080/live/ricardo/ricardo/74903.ts
-#EXTINF:-1,US: Starz Kids & Family HD
-http://landiptv.live:8080/live/ricardo/ricardo/77158.ts
-#EXTINF:-1,US: BOX OFFICE MOVIES
-http://landiptv.live:8080/live/ricardo/ricardo/74905.ts
-#EXTINF:-1,US: Starz Encore East HD
-http://landiptv.live:8080/live/ricardo/ricardo/74914.ts
-#EXTINF:-1,US: Starz Encore HD
-http://landiptv.live:8080/live/ricardo/ricardo/74915.ts
-#EXTINF:-1,US: Cinemax East HD
-http://landiptv.live:8080/live/ricardo/ricardo/74917.ts
-#EXTINF:-1,US: CINEMAX ACTIONMAX
-http://landiptv.live:8080/live/ricardo/ricardo/74918.ts
-#EXTINF:-1,US: CINEMAX 5 STARMAX HD
-http://landiptv.live:8080/live/ricardo/ricardo/74927.ts
-#EXTINF:-1,US: Showtime Extreme HD
-http://landiptv.live:8080/live/ricardo/ricardo/74934.ts
-#EXTINF:-1,US: Showtime Showcase
-http://landiptv.live:8080/live/ricardo/ricardo/74935.ts
-#EXTINF:-1,US: AFN PRIME PACIFIC HD
-http://landiptv.live:8080/live/ricardo/ricardo/74938.ts
-#EXTINF:-1,US: AFN PRIME ATLANTIC HD
-http://landiptv.live:8080/live/ricardo/ricardo/74939.ts
-#EXTINF:-1,US: AFN NEWS HD
-http://landiptv.live:8080/live/ricardo/ricardo/74940.ts
-#EXTINF:-1,US: AFN Movie HD
-http://landiptv.live:8080/live/ricardo/ricardo/74941.ts
-#EXTINF:-1,US: AFN Family Movie
-http://landiptv.live:8080/live/ricardo/ricardo/74942.ts
-#EXTINF:-1,US: Starz HD
-http://landiptv.live:8080/live/ricardo/ricardo/75115.ts
-#EXTINF:-1,US: Comedy
-http://landiptv.live:8080/live/ricardo/ricardo/75116.ts
-#EXTINF:-1,US: Starz Cinema HD
-http://landiptv.live:8080/live/ricardo/ricardo/75114.ts
-#EXTINF:-1,US: Signature
-http://landiptv.live:8080/live/ricardo/ricardo/75117.ts
-#EXTINF:-1,US: Zone
-http://landiptv.live:8080/live/ricardo/ricardo/75118.ts
-#EXTINF:-1,US: Action Max FHD
-http://landiptv.live:8080/live/ricardo/ricardo/75136.ts
-#EXTINF:-1,US: Showtime FHD
-http://landiptv.live:8080/live/ricardo/ricardo/75137.ts
-#EXTINF:-1,US: HBO East HD
-http://landiptv.live:8080/live/ricardo/ricardo/75881.ts
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4449
+#EXTINF:-1,UK: BT Sport 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4453
+#EXTINF:-1,UK: BT Sport 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4452
+#EXTINF:-1,UK: BT Sport 3 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4459
+#EXTINF:-1,UK: BT Sport Espn
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4448
+#EXTINF:-1,UK: BT Sport Extra 4
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4447
+#EXTINF:-1,GR: OTE SPORT 1
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/9465
+#EXTINF:-1,GR: OTE SPORT 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/9466
+#EXTINF:-1,GR: OTE SPORT 3
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/9467
+#EXTINF:-1,GR: OTE SPORT 4
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/9468
+#EXTINF:-1,GR: OTE SPORT 5
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/9469
+#EXTINF:-1,GR: OTE SPORT 6
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/9470
+#EXTINF:-1,GR: OTE SPORT 7
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/9471
+#EXTINF:-1,GR: OTE SPORT 8
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/9472
+#EXTINF:-1,EX YU: SPORTKLUB 1
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8779
+#EXTINF:-1,EX YU: SPORTKLUB 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8780
+#EXTINF:-1,EX YU: SPORTKLUB 3
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8781
+#EXTINF:-1,EX YU: SPORTKLUB 4
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8782
+#EXTINF:-1,EX YU: SPORTKLUB 5
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8783
+#EXTINF:-1,EX YU: SPORTKLUB 6
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8784
+#EXTINF:-1,EX YU: ARENA SPORT 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8787
+#EXTINF:-1,EX YU: ARENA SPORT 1 SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8788
+#EXTINF:-1,EX YU: ARENA SPORT 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8789
+#EXTINF:-1,EX YU: ARENA SPORT 2 SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8790
+#EXTINF:-1,EX YU: ARENA SPORT 3 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8791
+#EXTINF:-1,EX YU: ARENA SPORT 3 SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8792
+#EXTINF:-1,EX YU: ARENA SPORT 4 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8793
+#EXTINF:-1,EX YU: ARENA SPORT 4 SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8794
+#EXTINF:-1,EX YU: ARENA SPORT 5 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8795
+#EXTINF:-1,EX YU: ARENA SPORT 5 SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8796
+#EXTINF:-1,ALB: TRING SPORT 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/10501
+#EXTINF:-1,ALB: TRING SPORT 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/10502
+#EXTINF:-1,ALB: TRING SPORT 3 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/10503
+#EXTINF:-1,ALB: TRING SPORT 4 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/10504
+#EXTINF:-1,ALB: Super Sport Kosova 1
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4793
+#EXTINF:-1,ALB: Super Sport Kosova 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4792
+#EXTINF:-1,CZ: Arena Sport
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7633
+#EXTINF:-1,CZ: Sport 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7630
+#EXTINF:-1,CZ: Eurosports 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7629
+#EXTINF:-1,CZ: Eurosports 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/7628
+#EXTINF:-1,NDS: Viasat Sport Premium SD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/1857
+#EXTINF:-1,NDS: Viasat Sport Sverige
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/1856
+#EXTINF:-1,RU: MATCH SPORT
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8974
+#EXTINF:-1,RU: MATCH FUTBOL 1
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8972
+#EXTINF:-1,RU: MATCH FUTBOL 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8973
+#EXTINF:-1,RU: NTV FOOTBALL
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8970
+#EXTINF:-1,RU: NTV FOOTBALL 2
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8971
+#EXTINF:-1,IN: STAR SPORTS 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4954
+#EXTINF:-1,IN: STAR SPORTS 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4953
+#EXTINF:-1,IN: STAR SPORTS 3 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4952
+#EXTINF:-1,IN: STAR SPORTS 4 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/4951
+#EXTINF:-1,CA: Sports NET Pacific HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/13261
+#EXTINF:-1,CA: Sports NET West HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/13260
+#EXTINF:-1,CA: sports net world hd
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/13259
+#EXTINF:-1,USA: BEIN Sports HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/13439
+#EXTINF:-1,USA: BEIN USA HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/13423
+#EXTINF:-1,USA: FOX Sports 1 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/13444
+#EXTINF:-1,USA: FOX Sports 2 HD
+http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/13445
+
+#EXTINF:-1,BG- Diema Sport
+http://smart-hdip.com:6204/zamir/zamir/12440
+#EXTINF:-1,BG- Diema Sport 2
+http://smart-hdip.com:6204/zamir/zamir/12439
+#EXTINF:-1,BG- MAX Sport 1
+http://smart-hdip.com:6204/zamir/zamir/12403
+#EXTINF:-1,BG- MAX Sport 2
+http://smart-hdip.com:6204/zamir/zamir/12402
+#EXTINF:-1,BG- nova Sport
+http://smart-hdip.com:6204/zamir/zamir/12424
+#EXTINF:-1,Us- Bein Sports
+http://smart-hdip.com:6204/zamir/zamir/10646
+#EXTINF:-1,My- FightBox HD
+http://smart-hdip.com:6204/zamir/zamir/2694
+#EXTINF:-1,Bein Sport HD
+http://smart-hdip.com:6204/zamir/zamir/2568
+#EXTINF:-1,Bein Sport News HD
+http://smart-hdip.com:6204/zamir/zamir/2567
+#EXTINF:-1,Bein Sport HD1 1080i
+http://smart-hdip.com:6204/zamir/zamir/127
+#EXTINF:-1,Bein Sport HD2 1080i
+http://smart-hdip.com:6204/zamir/zamir/128
+#EXTINF:-1,Bein Sport HD3 1080i
+http://smart-hdip.com:6204/zamir/zamir/129
+#EXTINF:-1,Bein Sport HD4 1080i
+http://smart-hdip.com:6204/zamir/zamir/130
+#EXTINF:-1,Bein Sport HD5 1080i
+http://smart-hdip.com:6204/zamir/zamir/132
+#EXTINF:-1,Bein Sport HD6 1080i
+http://smart-hdip.com:6204/zamir/zamir/133
+#EXTINF:-1,Bein Sport HD7 1080i
+http://smart-hdip.com:6204/zamir/zamir/134
+#EXTINF:-1,Bein Sport HD8 1080i
+http://smart-hdip.com:6204/zamir/zamir/135
+#EXTINF:-1,Bein Sport HD9 1080i
+http://smart-hdip.com:6204/zamir/zamir/186
+#EXTINF:-1,Bein Sport HD10 1080i
+http://smart-hdip.com:6204/zamir/zamir/187
+#EXTINF:-1,Bein Sport HD11 EN 1080i
+http://smart-hdip.com:6204/zamir/zamir/188
+#EXTINF:-1,Bein Sport HD12 EN 1080i
+http://smart-hdip.com:6204/zamir/zamir/189
+#EXTINF:-1,Bein Sport HD13 EN 1080i
+http://smart-hdip.com:6204/zamir/zamir/1694
+#EXTINF:-1,Bein Sport HD14 Fr 1080i
+http://smart-hdip.com:6204/zamir/zamir/2555
+#EXTINF:-1,Bein Sport HD15 Fr 1080i
+http://smart-hdip.com:6204/zamir/zamir/4763
+#EXTINF:-1,Bein Sport HD16 Fr 1080i
+http://smart-hdip.com:6204/zamir/zamir/4762
+#EXTINF:-1,Bein Sport NBA HD
+http://smart-hdip.com:6204/zamir/zamir/6434
+#EXTINF:-1,Bein Sport HD1 720P
+http://smart-hdip.com:6204/zamir/zamir/9022
+#EXTINF:-1,Bein Sport HD2 720P
+http://smart-hdip.com:6204/zamir/zamir/9021
+#EXTINF:-1,Bein Sport HD3 720P
+http://smart-hdip.com:6204/zamir/zamir/9020
+#EXTINF:-1,Bein Sport HD4 720P
+http://smart-hdip.com:6204/zamir/zamir/9019
+#EXTINF:-1,Bein Sport HD5 720P
+http://smart-hdip.com:6204/zamir/zamir/9018
+#EXTINF:-1,Bein Sport HD6 720P
+http://smart-hdip.com:6204/zamir/zamir/9017
+#EXTINF:-1,Bein Sport HD7 720P
+http://smart-hdip.com:6204/zamir/zamir/9016
+#EXTINF:-1,Bein Sport HD8 720P
+http://smart-hdip.com:6204/zamir/zamir/9015
+#EXTINF:-1,Bein Sport HD9 720P
+http://smart-hdip.com:6204/zamir/zamir/9014
+#EXTINF:-1,Bein Sport HD10 720P
+http://smart-hdip.com:6204/zamir/zamir/9013
+#EXTINF:-1,Bein Sport HD11 EN 720P
+http://smart-hdip.com:6204/zamir/zamir/9012
+#EXTINF:-1,bein Sport SD1
+http://smart-hdip.com:6204/zamir/zamir/1913
+#EXTINF:-1,Bein Sport SD2
+http://smart-hdip.com:6204/zamir/zamir/1914
+#EXTINF:-1,Bein Sport SD3
+http://smart-hdip.com:6204/zamir/zamir/1915
+#EXTINF:-1,Bein Sport SD4
+http://smart-hdip.com:6204/zamir/zamir/1916
+#EXTINF:-1,Bein Sport SD5
+http://smart-hdip.com:6204/zamir/zamir/1917
+#EXTINF:-1,Bein Sport SD6
+http://smart-hdip.com:6204/zamir/zamir/1918
+#EXTINF:-1,Bein Sport SD7
+http://smart-hdip.com:6204/zamir/zamir/1919
+#EXTINF:-1,Bein Sport SD8
+http://smart-hdip.com:6204/zamir/zamir/1920
+#EXTINF:-1,Bein Sport SD9
+http://smart-hdip.com:6204/zamir/zamir/1921
+#EXTINF:-1,Bein Sport SD10
+http://smart-hdip.com:6204/zamir/zamir/1922
+#EXTINF:-1,Bein Sport SD11
+http://smart-hdip.com:6204/zamir/zamir/1923
+#EXTINF:-1,Bein Alkass 1 HD
+http://smart-hdip.com:6204/zamir/zamir/7045
+#EXTINF:-1,Bein Alkass 2 HD
+http://smart-hdip.com:6204/zamir/zamir/7046
+#EXTINF:-1,Bein Alkass 3 HD
+http://smart-hdip.com:6204/zamir/zamir/7047
+#EXTINF:-1,Bein Alkass 4 HD
+http://smart-hdip.com:6204/zamir/zamir/7048
+#EXTINF:-1,Bein Alkass 5 HD
+http://smart-hdip.com:6204/zamir/zamir/7049
+#EXTINF:-1,Bein Alkass 6 HD
+http://smart-hdip.com:6204/zamir/zamir/7050
+#EXTINF:-1,Ar- Dawri Plus 1 HD
+http://smart-hdip.com:6204/zamir/zamir/11206
+#EXTINF:-1,Ar- Dawri Plus 2 HD
+http://smart-hdip.com:6204/zamir/zamir/11205
+#EXTINF:-1,Ar- Dawri Plus 3 HD
+http://smart-hdip.com:6204/zamir/zamir/11208
+#EXTINF:-1,Ar- Dawri Plus 4 HD
+http://smart-hdip.com:6204/zamir/zamir/11207
+#EXTINF:-1,Ar- KSA Sport 1 HD
+http://smart-hdip.com:6204/zamir/zamir/3039
+#EXTINF:-1,Ar- KSA Sport 2 HD
+http://smart-hdip.com:6204/zamir/zamir/6432
+#EXTINF:-1,Ar- KSA Sport +1 HD
+http://smart-hdip.com:6204/zamir/zamir/13738
+#EXTINF:-1,Ar- KSA Sport +2 HD
+http://smart-hdip.com:6204/zamir/zamir/13739
+#EXTINF:-1,Ar- Saudia Sport 24 HD
+http://smart-hdip.com:6204/zamir/zamir/10624
+#EXTINF:-1,Ar- AD Sport1 HD
+http://smart-hdip.com:6204/zamir/zamir/2582
+#EXTINF:-1,Ar- AD Sport2 HD
+http://smart-hdip.com:6204/zamir/zamir/2581
+#EXTINF:-1,Ar- AD Sport3 HD
+http://smart-hdip.com:6204/zamir/zamir/2718
+#EXTINF:-1,Ar- AD Sport4 HD
+http://smart-hdip.com:6204/zamir/zamir/2719
+#EXTINF:-1,Ar- Dubai Sport 1 HD
+http://smart-hdip.com:6204/zamir/zamir/2583
+#EXTINF:-1,Ar- Dubai Sport 2 HD
+http://smart-hdip.com:6204/zamir/zamir/10626
+#EXTINF:-1,Ar- Dubai Sport 3 HD
+http://smart-hdip.com:6204/zamir/zamir/10625
+#EXTINF:-1,Ar- Dubai Racing 1 HD
+http://smart-hdip.com:6204/zamir/zamir/2584
+#EXTINF:-1,Ar- Dubai Racing 2 HD
+http://smart-hdip.com:6204/zamir/zamir/10628
+#EXTINF:-1,Ar- Dubai Racing 3 HD
+http://smart-hdip.com:6204/zamir/zamir/10627
+#EXTINF:-1,Ar- ON Sport HD
+http://smart-hdip.com:6204/zamir/zamir/6556
+#EXTINF:-1,Ar- Nile Sport
+http://smart-hdip.com:6204/zamir/zamir/4133
+#EXTINF:-1,Ar- DMC Sport HD
+http://smart-hdip.com:6204/zamir/zamir/6890
+#EXTINF:-1,Ar- KTV Sport HD
+http://smart-hdip.com:6204/zamir/zamir/2733
+#EXTINF:-1,Ar- KTV Sport Plus HD
+http://smart-hdip.com:6204/zamir/zamir/2732
+#EXTINF:-1,Ar- Iraqiya Sport
+http://smart-hdip.com:6204/zamir/zamir/2740
+#EXTINF:-1,Ar- Omman Sport HD
+http://smart-hdip.com:6204/zamir/zamir/2676
+#EXTINF:-1,OSN WWE HD
+http://smart-hdip.com:6204/zamir/zamir/6435
+#EXTINF:-1,OSN Ten Cricket HD
+http://smart-hdip.com:6204/zamir/zamir/11004
+#EXTINF:-1,OSN Sport Cricket HD
+http://smart-hdip.com:6204/zamir/zamir/11211
+#EXTINF:-1,OSN Sports Action 1 HD
+http://smart-hdip.com:6204/zamir/zamir/13449
+#EXTINF:-1,OSN Sports Action 2 HD
+http://smart-hdip.com:6204/zamir/zamir/13448
+#EXTINF:-1,Tr- Bein Sport 1 HD
+http://smart-hdip.com:6204/zamir/zamir/11182
+#EXTINF:-1,Tr- Bein Sport 2 HD
+http://smart-hdip.com:6204/zamir/zamir/2003
+#EXTINF:-1,Tr- Bein Sport 3 HD
+http://smart-hdip.com:6204/zamir/zamir/11181
+#EXTINF:-1,Tr- Bein Sport 4 HD
+http://smart-hdip.com:6204/zamir/zamir/11180
+#EXTINF:-1,Tr- beIN Sport MAX 1 HD
+http://smart-hdip.com:6204/zamir/zamir/11179
+#EXTINF:-1,Tr- beIN Sport MAX 2 HD
+http://smart-hdip.com:6204/zamir/zamir/11178
+#EXTINF:-1,Tr- beIN Sport 1 HD Backup
+http://smart-hdip.com:6204/zamir/zamir/13034
+#EXTINF:-1,Tr- beIN Sport 2 HD Backup
+http://smart-hdip.com:6204/zamir/zamir/13033
+#EXTINF:-1,Tr- Bein Sport 3 HD Backup
+http://smart-hdip.com:6204/zamir/zamir/13030
+#EXTINF:-1,Tr- beIN Sport 4 HD Backup
+http://smart-hdip.com:6204/zamir/zamir/14026
+#EXTINF:-1,Tr- beIN Sport MAX 1 HD Backup
+http://smart-hdip.com:6204/zamir/zamir/14028
+#EXTINF:-1,Tr- beIN Sports MAX 2 HD Backup
+http://smart-hdip.com:6204/zamir/zamir/14027
+#EXTINF:-1,Tr- TiviBu Sport 1 HD
+http://smart-hdip.com:6204/zamir/zamir/6512
+#EXTINF:-1,Tr- TiviBu Sport 2 HD
+http://smart-hdip.com:6204/zamir/zamir/6513
+#EXTINF:-1,Tr- TiviBu Sport 3 HD
+http://smart-hdip.com:6204/zamir/zamir/6514
+#EXTINF:-1,Uk- Sky Sports Main Event HD
+http://smart-hdip.com:6204/zamir/zamir/8517
+#EXTINF:-1,Uk- Sky Sports Cricket HD
+http://smart-hdip.com:6204/zamir/zamir/8516
+#EXTINF:-1,Uk- Sky Sports Action HD
+http://smart-hdip.com:6204/zamir/zamir/8515
+#EXTINF:-1,Uk- Sky Sports Golf HD
+http://smart-hdip.com:6204/zamir/zamir/8514
+#EXTINF:-1,Uk- Sky Sports Premier League HD
+http://smart-hdip.com:6204/zamir/zamir/8513
+#EXTINF:-1,UK- Sky Sports Arena HD
+http://smart-hdip.com:6204/zamir/zamir/9059
+#EXTINF:-1,Uk- Sky Sport Football
+http://smart-hdip.com:6204/zamir/zamir/8523
+#EXTINF:-1,Uk- Sky Sports MixHD
+http://smart-hdip.com:6204/zamir/zamir/8511
+#EXTINF:-1,Uk- Sky BoxNation
+http://smart-hdip.com:6204/zamir/zamir/8583
+#EXTINF:-1,Uk- Sky Sports F1 HD
+http://smart-hdip.com:6204/zamir/zamir/8512
+#EXTINF:-1,Uk- Sky Sports F1 HD Backup S
+http://smart-hdip.com:6204/zamir/zamir/11099
+#EXTINF:-1,Uk- Sky BT Sport 1 HD
+http://smart-hdip.com:6204/zamir/zamir/8582
+#EXTINF:-1,Uk- Sky BT Sport 2 HD
+http://smart-hdip.com:6204/zamir/zamir/8580
+#EXTINF:-1,Uk- Sky BT Sport 3 HD
+http://smart-hdip.com:6204/zamir/zamir/10166
+#EXTINF:-1,Uk- Sky BT Sports Extra 1
+http://smart-hdip.com:6204/zamir/zamir/8581
+#EXTINF:-1,Uk- Sky BT Sports Extra 2
+http://smart-hdip.com:6204/zamir/zamir/8579
+#EXTINF:-1,Uk- Sky BT Sports Extra 3
+http://smart-hdip.com:6204/zamir/zamir/8578
+#EXTINF:-1,Uk- Uk- Sky BT Sport ESPN HD
+http://smart-hdip.com:6204/zamir/zamir/8577
+#EXTINF:-1,Uk- Sky Eurosport 1 HD
+http://smart-hdip.com:6204/zamir/zamir/8560
+#EXTINF:-1,Uk- Sky Eurosport 2 HD
+http://smart-hdip.com:6204/zamir/zamir/8559
+#EXTINF:-1,Uk- Sky Eir Sport 1
+http://smart-hdip.com:6204/zamir/zamir/11118
+#EXTINF:-1,Uk- Sky Eir Sport 2
+http://smart-hdip.com:6204/zamir/zamir/11117
+#EXTINF:-1,De- Sky Sport News FHD
+http://smart-hdip.com:6204/zamir/zamir/12352
+#EXTINF:-1,De- Sky Sport News HD.
+http://smart-hdip.com:6204/zamir/zamir/12351
+#EXTINF:-1,De- Sky Sport  Austria FHD
+http://smart-hdip.com:6204/zamir/zamir/12354
+#EXTINF:-1,De- Sky Sport Austria SD
+http://smart-hdip.com:6204/zamir/zamir/12353
+#EXTINF:-1,De- Auto Motor Sport HD
+http://smart-hdip.com:6204/zamir/zamir/12356
+#EXTINF:-1,De- ORF Sport  HD
+http://smart-hdip.com:6204/zamir/zamir/12194
+#EXTINF:-1,De- Motorvision HD
+http://smart-hdip.com:6204/zamir/zamir/12355
+#EXTINF:-1,De- Sport 1 HD.
+http://smart-hdip.com:6204/zamir/zamir/12360
+#EXTINF:-1,De- Sport1  HD
+http://smart-hdip.com:6204/zamir/zamir/12359
+#EXTINF:-1,De- Sport1 US FHD
+http://smart-hdip.com:6204/zamir/zamir/12358
+#EXTINF:-1,De- Sportdigital HD
+http://smart-hdip.com:6204/zamir/zamir/12357
+#EXTINF:-1,De- DAZN  1 FHD
+http://smart-hdip.com:6204/zamir/zamir/12339
+#EXTINF:-1,De- DAZN  2 FHD
+http://smart-hdip.com:6204/zamir/zamir/12338
+#EXTINF:-1,De- EuroSport 1 FHD
+http://smart-hdip.com:6204/zamir/zamir/12350
+#EXTINF:-1,De- EuroSport 1 HD.
+http://smart-hdip.com:6204/zamir/zamir/12349
+#EXTINF:-1,De- EuroSport 2 FHD
+http://smart-hdip.com:6204/zamir/zamir/12348
+#EXTINF:-1,De- EuroSport 2 HD.
+http://smart-hdip.com:6204/zamir/zamir/12347
+#EXTINF:-1,De- EuroSport 2 Xtra FHD
+http://smart-hdip.com:6204/zamir/zamir/12346
+#EXTINF:-1,Fr: Canal    Sport HD
+http://smart-hdip.com:6204/zamir/zamir/8072
+#EXTINF:-1,Fr: Eurosport 1 Fr
+http://smart-hdip.com:6204/zamir/zamir/8046
+#EXTINF:-1,Fr: InfoSport
+http://smart-hdip.com:6204/zamir/zamir/8033
+#EXTINF:-1,Fr- SFR SPORT 1 FHD
+http://smart-hdip.com:6204/zamir/zamir/14046
+#EXTINF:-1,Fr- SFR SPORT 2 FHD
+http://smart-hdip.com:6204/zamir/zamir/14045
+#EXTINF:-1,Fr- SFR SPORT 3 FHD
+http://smart-hdip.com:6204/zamir/zamir/14044
+#EXTINF:-1,Fr- SFR SPORT 4 FHD
+http://smart-hdip.com:6204/zamir/zamir/14043
+#EXTINF:-1,Fr- SFR SPORT 5 FHD
+http://smart-hdip.com:6204/zamir/zamir/14042
+#EXTINF:-1,Fr- BEIN SPORT 1 HD
+http://smart-hdip.com:6204/zamir/zamir/14041
+#EXTINF:-1,Fr- BEIN SPORT 2 HD
+http://smart-hdip.com:6204/zamir/zamir/14040
+#EXTINF:-1,Fr- BEIN SPORT 3 HD
+http://smart-hdip.com:6204/zamir/zamir/14039
+#EXTINF:-1,Fr- BEIN MAX 4 HD
+http://smart-hdip.com:6204/zamir/zamir/14038
+#EXTINF:-1,Fr- BEIN MAX 5 HD
+http://smart-hdip.com:6204/zamir/zamir/14037
+#EXTINF:-1,Fr- BEIN MAX 6 HD
+http://smart-hdip.com:6204/zamir/zamir/14036
+#EXTINF:-1,Fr- BEIN MAX 7 HD
+http://smart-hdip.com:6204/zamir/zamir/14035
+#EXTINF:-1,Fr- BEIN MAX 8 HD
+http://smart-hdip.com:6204/zamir/zamir/14034
+#EXTINF:-1,Fr- BEIN MAX 9 HD
+http://smart-hdip.com:6204/zamir/zamir/14033
+#EXTINF:-1,Fr- BEIN MAX 10 HD
+http://smart-hdip.com:6204/zamir/zamir/14032
+#EXTINF:-1,It- Sky Sport F1 HD
+http://smart-hdip.com:6204/zamir/zamir/9421
+#EXTINF:-1,It- Sky Sport 1 HD
+http://smart-hdip.com:6204/zamir/zamir/9425
+#EXTINF:-1,It- Sky Sport 2 HD
+http://smart-hdip.com:6204/zamir/zamir/9424
+#EXTINF:-1,It- Sky Sport 3 HD
+http://smart-hdip.com:6204/zamir/zamir/9422
+#EXTINF:-1,It- Sky Sport 24 HD
+http://smart-hdip.com:6204/zamir/zamir/9423
+#EXTINF:-1,It- Eurosport
+http://smart-hdip.com:6204/zamir/zamir/9464
+#EXTINF:-1,It- Eurosport 2 HD
+http://smart-hdip.com:6204/zamir/zamir/9463
+#EXTINF:-1,It- Premium Calcio
+http://smart-hdip.com:6204/zamir/zamir/9458
+#EXTINF:-1,It- Premium Calcio 2 HD
+http://smart-hdip.com:6204/zamir/zamir/9457
+#EXTINF:-1,It- Premium Fox Sport HD
+http://smart-hdip.com:6204/zamir/zamir/9452
+#EXTINF:-1,It- Premium Sport 2
+http://smart-hdip.com:6204/zamir/zamir/9451
+#EXTINF:-1,It- Premium Sport HD
+http://smart-hdip.com:6204/zamir/zamir/9450
+#EXTINF:-1,It- Premium Sport HD 2
+http://smart-hdip.com:6204/zamir/zamir/9449
+#EXTINF:-1,It- Rai Sports 1
+http://smart-hdip.com:6204/zamir/zamir/9441
+#EXTINF:-1,It- Rai Sports 2
+http://smart-hdip.com:6204/zamir/zamir/9440
+#EXTINF:-1,It- Sky Supercalcio
+http://smart-hdip.com:6204/zamir/zamir/9419
+#EXTINF:-1,It- Sky Supertennis
+http://smart-hdip.com:6204/zamir/zamir/9418
+#EXTINF:-1,It- Sport Italia
+http://smart-hdip.com:6204/zamir/zamir/9416
+#EXTINF:-1,NL- Extreme Sports
+http://smart-hdip.com:6204/zamir/zamir/9568
+#EXTINF:-1,NL- EuroSport 1 HD
+http://smart-hdip.com:6204/zamir/zamir/9570
+#EXTINF:-1,NL- EuroSport 2 HD
+http://smart-hdip.com:6204/zamir/zamir/9569
+#EXTINF:-1,NL- EDGE Sport HD NL
+http://smart-hdip.com:6204/zamir/zamir/11062
+#EXTINF:-1,NL- Ziggo Sport Voetbal
+http://smart-hdip.com:6204/zamir/zamir/9517
+#EXTINF:-1,NL- Ziggo Sport Select HD
+http://smart-hdip.com:6204/zamir/zamir/9518
+#EXTINF:-1,NL- Ziggo Sport Golf
+http://smart-hdip.com:6204/zamir/zamir/9520
+#EXTINF:-1,NL- Ziggo Sport Racing
+http://smart-hdip.com:6204/zamir/zamir/9519
+#EXTINF:-1,NL- Ziggo Sport Extra 1
+http://smart-hdip.com:6204/zamir/zamir/9522
+#EXTINF:-1,NL- Ziggo Sport Extra 2
+http://smart-hdip.com:6204/zamir/zamir/9521
+#EXTINF:-1,NL- Ziggo Sport Voetbal Backup
+http://smart-hdip.com:6204/zamir/zamir/11192
+#EXTINF:-1,NL- Ziggo Sport Select HD Backup
+http://smart-hdip.com:6204/zamir/zamir/11193
+#EXTINF:-1,NL- Ziggo Sport Golf Backup
+http://smart-hdip.com:6204/zamir/zamir/11194
+#EXTINF:-1,NL- Ziggo Sport Extra 1 Backup
+http://smart-hdip.com:6204/zamir/zamir/11196
+#EXTINF:-1,NL- Ziggo Sport Extra 2 Backup
+http://smart-hdip.com:6204/zamir/zamir/11195
+#EXTINF:-1,NL- Fox Sport 1 HD
+http://smart-hdip.com:6204/zamir/zamir/9561
+#EXTINF:-1,NL- Fox Sport 2 HD
+http://smart-hdip.com:6204/zamir/zamir/9560
+#EXTINF:-1,NL- Fox Sport 3 HD
+http://smart-hdip.com:6204/zamir/zamir/9559
+#EXTINF:-1,NL- Fox Sport 4 HD
+http://smart-hdip.com:6204/zamir/zamir/9558
+#EXTINF:-1,NL- Fox Sport 5 HD
+http://smart-hdip.com:6204/zamir/zamir/9557
+#EXTINF:-1,NL- Fox Sport 6 HD
+http://smart-hdip.com:6204/zamir/zamir/9556
+#EXTINF:-1,NL- Fox Sport 1 HD backup
+http://smart-hdip.com:6204/zamir/zamir/11202
+#EXTINF:-1,NL- Fox Sport 2 HD backup
+http://smart-hdip.com:6204/zamir/zamir/11201
+#EXTINF:-1,NL- Fox Sport 3 HD backup
+http://smart-hdip.com:6204/zamir/zamir/11200
+#EXTINF:-1,NL- Fox Sport 4 HD backup
+http://smart-hdip.com:6204/zamir/zamir/11199
+#EXTINF:-1,NL- Fox Sport 5 HD backup
+http://smart-hdip.com:6204/zamir/zamir/11198
+#EXTINF:-1,NL- Fox Sport 6 HD backup
+http://smart-hdip.com:6204/zamir/zamir/11197
+#EXTINF:-1,NL- FOX Sports 1 HD Backup2
+http://smart-hdip.com:6204/zamir/zamir/13549
+#EXTINF:-1,NL- FOX Sports 2 HD Backup2
+http://smart-hdip.com:6204/zamir/zamir/13548
+#EXTINF:-1,NL- FOX Sports 3 HD Backup2
+http://smart-hdip.com:6204/zamir/zamir/13547
+#EXTINF:-1,NL- FOX Sports 4 HD Backup2
+http://smart-hdip.com:6204/zamir/zamir/13546
+#EXTINF:-1,NL- FOX Sports 5 HD Backup2
+http://smart-hdip.com:6204/zamir/zamir/13545
+#EXTINF:-1,NL- FOX Sports 6 HD Backup2
+http://smart-hdip.com:6204/zamir/zamir/13544
+#EXTINF:-1,Se- C More First HD
+http://smart-hdip.com:6204/zamir/zamir/7164
+#EXTINF:-1,Se- C More Stars HD
+http://smart-hdip.com:6204/zamir/zamir/8144
+#EXTINF:-1,Se- C More Series HD
+http://smart-hdip.com:6204/zamir/zamir/7162
+#EXTINF:-1,Se- C More Hits HD
+http://smart-hdip.com:6204/zamir/zamir/7163
+#EXTINF:-1,Se- C More Sport HD
+http://smart-hdip.com:6204/zamir/zamir/7161
+#EXTINF:-1,Se- C More Fotboll HD
+http://smart-hdip.com:6204/zamir/zamir/8376
+#EXTINF:-1,Se- C More Golf FHD
+http://smart-hdip.com:6204/zamir/zamir/13524
+#EXTINF:-1,Se- C More Hockey FHD
+http://smart-hdip.com:6204/zamir/zamir/13523
+#EXTINF:-1,Se- C More Live HD
+http://smart-hdip.com:6204/zamir/zamir/13508
+#EXTINF:-1,Se- C More Live 1 HD
+http://smart-hdip.com:6204/zamir/zamir/10614
+#EXTINF:-1,Se- C More Live 2 HD
+http://smart-hdip.com:6204/zamir/zamir/10613
+#EXTINF:-1,Se- C More Live 3 HD
+http://smart-hdip.com:6204/zamir/zamir/10612
+#EXTINF:-1,Se- C More Live 4 HD
+http://smart-hdip.com:6204/zamir/zamir/10611
+#EXTINF:-1,Se- Viasat Fotboll HD
+http://smart-hdip.com:6204/zamir/zamir/13515
+#EXTINF:-1,Se- Viasat Hockey HD
+http://smart-hdip.com:6204/zamir/zamir/13513
+#EXTINF:-1,Se- Viasat Motor HD
+http://smart-hdip.com:6204/zamir/zamir/13512
+#EXTINF:-1,Se- Viasat Golf SD
+http://smart-hdip.com:6204/zamir/zamir/13514
+#EXTINF:-1,Se- Viasat Sport
+http://smart-hdip.com:6204/zamir/zamir/13510
+#EXTINF:-1,Se- Viasat Sport Premium HD
+http://smart-hdip.com:6204/zamir/zamir/13509
+#EXTINF:-1,Se- Viasat Sport Baltic HD
+http://smart-hdip.com:6204/zamir/zamir/8113
+#EXTINF:-1,PT- SPORT TV
+http://smart-hdip.com:6204/zamir/zamir/8810
+#EXTINF:-1,PT- SPORT TV   HD
+http://smart-hdip.com:6204/zamir/zamir/8809
+#EXTINF:-1,PT- SPORTING TV
+http://smart-hdip.com:6204/zamir/zamir/8808
+#EXTINF:-1,PT- SPORTTV 1 HD
+http://smart-hdip.com:6204/zamir/zamir/8807
+#EXTINF:-1,PT- SPORTTV 1 SD
+http://smart-hdip.com:6204/zamir/zamir/8806
+#EXTINF:-1,PT- SPORTTV 2 HD
+http://smart-hdip.com:6204/zamir/zamir/8805
+#EXTINF:-1,PT- SPORTTV 2 SD
+http://smart-hdip.com:6204/zamir/zamir/8804
+#EXTINF:-1,PT- SPORTTV 3 HD
+http://smart-hdip.com:6204/zamir/zamir/8803
+#EXTINF:-1,PT- SPORTTV 3 SD
+http://smart-hdip.com:6204/zamir/zamir/8802
+#EXTINF:-1,PT- SPORTTV 4 HD
+http://smart-hdip.com:6204/zamir/zamir/8801
+#EXTINF:-1,PT- SPORTTV 5 HD
+http://smart-hdip.com:6204/zamir/zamir/8800
+#EXTINF:-1,PT- EUROSPORT 1
+http://smart-hdip.com:6204/zamir/zamir/8853
+#EXTINF:-1,PT- EUROSPORT 2
+http://smart-hdip.com:6204/zamir/zamir/8852
+#EXTINF:-1,PT- EUROSPORT NEWS
+http://smart-hdip.com:6204/zamir/zamir/8850
+#EXTINF:-1,PT- EuroSport 2 XTRA HD
+http://smart-hdip.com:6204/zamir/zamir/8851
+
+#EXTINF:-1,Bein1 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1286.m3u8
+#EXTINF:-1,Bein2 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1285.m3u8
+#EXTINF:-1,Bein3 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1284.m3u8
+#EXTINF:-1,Bein4 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1283.m3u8
+#EXTINF:-1,Bein5 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1282.m3u8
+#EXTINF:-1,Bein6 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1281.m3u8
+#EXTINF:-1,Bein7 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1280.m3u8
+#EXTINF:-1,Bein8 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1279.m3u8
+#EXTINF:-1,Bein9 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1278.m3u8
+#EXTINF:-1,Bein10 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1277.m3u8
+#EXTINF:-1,Bein1 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1296.m3u8
+#EXTINF:-1,Bein2 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1295.m3u8
+#EXTINF:-1,Bein3 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1294.m3u8
+#EXTINF:-1,Bein4 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1293.m3u8
+#EXTINF:-1,Bein5 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1292.m3u8
+#EXTINF:-1,Bein6 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1291.m3u8
+#EXTINF:-1,Bein7 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1290.m3u8
+#EXTINF:-1,Bein8 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1289.m3u8
+#EXTINF:-1,Bein9 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1288.m3u8
+#EXTINF:-1,Bein10 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1287.m3u8
+#EXTINF:-1,BEIN_SPORT1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1336.m3u8
+#EXTINF:-1,BEIN_SPORT2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1335.m3u8
+#EXTINF:-1,BEIN_SPORT3
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1334.m3u8
+#EXTINF:-1,BEIN_SPORT4
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1333.m3u8
+#EXTINF:-1,BEIN_SPORT5
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1332.m3u8
+#EXTINF:-1,BEIN_SPORT6
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1331.m3u8
+#EXTINF:-1,BEIN_SPORT7
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1330.m3u8
+#EXTINF:-1,BEIN_SPORT8
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1329.m3u8
+#EXTINF:-1,BEIN_SPORT9
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1328.m3u8
+#EXTINF:-1,BEIN_SPORT10
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1327.m3u8
+#EXTINF:-1,BEIN_SPORT 1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1356.m3u8
+#EXTINF:-1,BEIN_SPORT 2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1355.m3u8
+#EXTINF:-1,BEIN_SPORT 3
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1354.m3u8
+#EXTINF:-1,BEIN_SPORT 4
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1353.m3u8
+#EXTINF:-1,BEIN_SPORT 5
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1352.m3u8
+#EXTINF:-1,BEIN_SPORT 6
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1351.m3u8
+#EXTINF:-1,BEIN_SPORT 7
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1350.m3u8
+#EXTINF:-1,BEIN_SPORT 8
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1349.m3u8
+#EXTINF:-1,BEIN_SPORT 9
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1348.m3u8
+#EXTINF:-1,BEIN_SPORT 10
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1347.m3u8
+#EXTINF:-1,Bein__Sport1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1326.m3u8
+#EXTINF:-1,BEIN__SPORT2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1325.m3u8
+#EXTINF:-1,BEIN__SPORT3
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1324.m3u8
+#EXTINF:-1,BEIN__SPORT4
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1323.m3u8
+#EXTINF:-1,BEIN__SPORT5
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1322.m3u8
+#EXTINF:-1,BEIN__SPORT6
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1321.m3u8
+#EXTINF:-1,BEIN__SPORT7
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1320.m3u8
+#EXTINF:-1,BEIN__SPORT8
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1319.m3u8
+#EXTINF:-1,BEIN__SPORT9
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1318.m3u8
+#EXTINF:-1,BEIN__SPORT10
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1317.m3u8
+#EXTINF:-1,BEIN_SPORT__1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1346.m3u8
+#EXTINF:-1,BEIN_SPORT__2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1345.m3u8
+#EXTINF:-1,BEIN_SPORT__3
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1344.m3u8
+#EXTINF:-1,BEIN_SPORTS__4
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1343.m3u8
+#EXTINF:-1,BEIN_SPORT__5
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1342.m3u8
+#EXTINF:-1,BEIN_SPORT__6
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1341.m3u8
+#EXTINF:-1,BEIN_SPORT__7
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1340.m3u8
+#EXTINF:-1,BEIN_SPORT__8
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1339.m3u8
+#EXTINF:-1,BEIN_SPORT__9
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1338.m3u8
+#EXTINF:-1,BEIN_SPORT__10
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1337.m3u8
+#EXTINF:-1,BeinSport1 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1316.m3u8
+#EXTINF:-1,BeinSport2 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1315.m3u8
+#EXTINF:-1,BeinSport3 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1314.m3u8
+#EXTINF:-1,BeinSport4 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1313.m3u8
+#EXTINF:-1,BeinSport5 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1312.m3u8
+#EXTINF:-1,BeinSport6 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1311.m3u8
+#EXTINF:-1,BeinSport7 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1310.m3u8
+#EXTINF:-1,BeinSport8 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1309.m3u8
+#EXTINF:-1,BeinSport9 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1308.m3u8
+#EXTINF:-1,BeinSport10 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1307.m3u8
+#EXTINF:-1,BeinSport1 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1306.m3u8
+#EXTINF:-1,BeinSport2 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1305.m3u8
+#EXTINF:-1,BeinSport3 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1304.m3u8
+#EXTINF:-1,BeinSport4 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1303.m3u8
+#EXTINF:-1,BeinSport5 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1302.m3u8
+#EXTINF:-1,BeinSport6 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1301.m3u8
+#EXTINF:-1,BeinSport7 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1300.m3u8
+#EXTINF:-1,BeinSport8 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1299.m3u8
+#EXTINF:-1,BeinSport9 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1298.m3u8
+#EXTINF:-1,BeinSport10 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1297.m3u8
+#EXTINF:-1,Bein Sports1 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1276.m3u8
+#EXTINF:-1,Bein Sports2 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1275.m3u8
+#EXTINF:-1,Bein Sports3 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1274.m3u8
+#EXTINF:-1,Bein Sports4 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1273.m3u8
+#EXTINF:-1,Bein Sports5 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1272.m3u8
+#EXTINF:-1,Bein Sports6 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1271.m3u8
+#EXTINF:-1,Bein Sports7 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1270.m3u8
+#EXTINF:-1,Bein Sports8 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1269.m3u8
+#EXTINF:-1,Bein Sports9 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1268.m3u8
+#EXTINF:-1,Bein Sports10 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1267.m3u8
+#EXTINF:-1,Bein_1 LOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/943.m3u8
+#EXTINF:-1,Bein_2 LOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/942.m3u8
+#EXTINF:-1,Bein_3 LOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/941.m3u8
+#EXTINF:-1,Bein_4 LOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/940.m3u8
+#EXTINF:-1,Bein_5 LOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/939.m3u8
+#EXTINF:-1,Bein_6 LOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/938.m3u8
+#EXTINF:-1,Bein_7 LOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/937.m3u8
+#EXTINF:-1,Bein_8 LOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/936.m3u8
+#EXTINF:-1,Bein_9 LOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/935.m3u8
+#EXTINF:-1,Bein_10 LOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/934.m3u8
