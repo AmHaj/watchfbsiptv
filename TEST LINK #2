@@ -1,3 +1,19 @@
+EXTINF:0 tvg-id="ext" group-title="Channels",MX:: DIRECTV SPORTS 1
+http://manumetall.eu:80/eqnzmSkeGd/6jllpf6kju/35538
+#EXTINF:-1,  FOX SPORTS PREMIUM
+http://tvservice.pro:80/910352895111/twKKGciDoqoGfFr/30758
+#EXTINF:-1, DIRECT TV SPORTS
+http://tvservice.pro:80/910352895111/twKKGciDoqoGfFr/30743
+#EXTINF:-1, DIRECT TV SPORTS 2
+http://tvservice.pro:80/910352895111/twKKGciDoqoGfFr/30742
+#EXTINF:-1, DIRECT TV SPORTS PLUS
+http://tvservice.pro:80/910352895111/twKKGciDoqoGfFr/30741
+#EXTINF:-1, DIRECT TV SPORTS
+http://tvservice.pro:80/910352895111/twKKGciDoqoGfFr/30743
+#EXTINF:-1, DIRECT TV SPORTS 2
+http://tvservice.pro:80/910352895111/twKKGciDoqoGfFr/30742
+#EXTINF:-1, DIRECT TV SPORTS PLUS
+http://tvservice.pro:80/910352895111/twKKGciDoqoGfFr/30741
 #EXTINF:-1,WWE US
 http://clientportal.link:80/live:ackoace7518/mld452sms9a/16572
 #EXTINF:-1,NFL Channel HD US
